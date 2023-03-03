@@ -1,8 +1,6 @@
 # mtg-scryfall-grabber
 
-## TODO -- write this readme
-
-MTG-Scryfall-Grabber (MSG) is a Python library/repository for scraping and organizing data from the Scryfall Rest-API.
+MTG-Scryfall-Grabber (MSG) is a Python library and module for scraping and organizing data from the Scryfall Rest-API.
 
 ## Installation
 
@@ -10,9 +8,14 @@ Please go to [Releases](https://github.com/Contrastellar/mtg-scryfall-grabber/re
 
 Additionally, this can be installed from pip using
 
+```bash
+python3 -m pip install mtg-scryfall-grabber
+```
+
 
 ## Usage
 
+#### TODO UPDATE USAGE
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 #/opt/homebrew/bin/python3
 """
-Module for scraping usefull info off of the scryfall REST API
+Module for scraping usefull info off of the scryfall REST API when invoked as a module, versus a library
 
 Author: Contrastellar (Gabriella Agathon)
 2023
