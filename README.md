@@ -2,11 +2,14 @@
 
 ## TODO -- write this readme
 
-Foobar is a Python library for scraping and organizing data from the Scryfall Rest-API.
+MTG-Scryfall-Grabber (MSG) is a Python library/repository for scraping and organizing data from the Scryfall Rest-API.
 
 ## Installation
 
 Please go to [Releases](https://github.com/Contrastellar/mtg-scryfall-grabber/releases) for the latest directories. No binaries will be provided, as this is a Python Library.
+
+Additionally, this can be installed from pip using
+
 
 ## Usage
 
