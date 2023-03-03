@@ -1,0 +1,17 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mtg-scryfall-grabber"
+version = "0.0.1"
+authors = [
+  { name="Gabriella Agathon", email="gjstimac@gmail.com" },
+]
+description = "MTG-Scryfall-Grabber (MSG) is a Python library/repository for scraping and organizing data from the Scryfall Rest-API."
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
