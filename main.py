@@ -69,7 +69,7 @@ def main():
         print("\n\n--!-- Does output have \"next page\"?")
         print(parsedCardFile['has_more'])
 
-    MasterOutput = GrabCards.GrabCards(cardSetURL, cardListURL, setData, responseData, verboseSetting)
+    MasterOutput = GrabCards.GrabCards(user_set, cardSetURL, cardListURL, setData, responseData, pageNum, verboseSetting)
     # Serializing json
     json_object = json.dumps(MasterOutput, indent=4)
  

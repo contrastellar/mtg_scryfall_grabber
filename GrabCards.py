@@ -13,7 +13,11 @@ def jsonParse(obj):
     return text
 
 # Returns the complete JSONList
-def GrabCards(CardSetURL, CardListURL, SetData, ReponseData, verboseSetting):
+def GrabCards(UserSet, CardSetURL, CardListURL, SetData, ResponseData, pageNum, verboseSetting):
+
+    parsedSetFile = json.loads(jsonParse(SetData.json()))
+    parsedCardFile = json.loads(jsonParse(ResponseData.json()))
+
     masterOutput = {}
     output = {}
     i = 0
@@ -31,7 +35,7 @@ def GrabCards(CardSetURL, CardListURL, SetData, ReponseData, verboseSetting):
     while(hasNext):
 
         pageNum += 1
-        cardListURL = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set +"&unique=prints&page=" + str(pageNum)
+        cardListURL = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ UserSet +"&unique=prints&page=" + str(pageNum)
 
         responseData = requests.get(cardListURL)
         if(verboseSetting): print("Card URL =   " + str(cardListURL))
