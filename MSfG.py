@@ -7,6 +7,7 @@ Author: Contrastellar (Gabriella Agathon)
 """
 
 import os
+import time
 import json
 import argparse
 import requests
@@ -93,6 +94,9 @@ def main():
 
         print("\n\n--!-- Does output have \"next page\"?")
         print(parsedCardFile['has_more'])
+
+    # Declare MasterOutput for modification in the following blocks.
+    MasterOutput = None
 
     if(pullCardInfo):
         MasterOutput = GrabCards.GrabCards(UserSet=userSet, ResponseData=responseData, PageNum=pageNum, VerboseSetting=verboseSetting)
