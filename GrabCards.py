@@ -13,9 +13,8 @@ def jsonParse(obj):
     return text
 
 # Returns the complete JSONList
-def GrabCards(UserSet, CardSetURL, CardListURL, SetData, ResponseData, pageNum, verboseSetting):
+def GrabCards(UserSet, ResponseData, PageNum, VerboseSetting):
 
-    parsedSetFile = json.loads(jsonParse(SetData.json()))
     parsedCardFile = json.loads(jsonParse(ResponseData.json()))
 
     masterOutput = {}
@@ -34,12 +33,12 @@ def GrabCards(UserSet, CardSetURL, CardListURL, SetData, ResponseData, pageNum, 
 
     while(hasNext):
 
-        pageNum += 1
-        cardListURL = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ UserSet +"&unique=prints&page=" + str(pageNum)
+        PageNum += 1
+        cardListURL = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ UserSet +"&unique=prints&page=" + str(PageNum)
 
         responseData = requests.get(cardListURL)
-        if(verboseSetting): print("Card URL =   " + str(cardListURL))
-        if(verboseSetting): print("Response code: " + str(responseData.status_code) + "\n")
+        if(VerboseSetting): print("Card URL =   " + str(cardListURL))
+        if(VerboseSetting): print("Response code: " + str(responseData.status_code) + "\n")
         parsedCardFile = json.loads(jsonParse(responseData.json()))
         hasNext = parsedCardFile['has_more']
         output2 = {}

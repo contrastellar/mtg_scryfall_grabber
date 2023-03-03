@@ -16,21 +16,23 @@ def main():
 
     description = "Script to pull card info from api.scryfall.com based on specific set"
     parser = argparse.ArgumentParser(description=description)
-    parser.add_argument('set', metavar='set') #set to pull card data from
+    parser.add_argument('set', metavar='set', help="3-5 letter/number ID that dictates which set to pull from") #set to pull card data from
+    parser.add_argument('-c', '--cards', help="grab card names associated with specific IDs", action='store_true')
     parser.add_argument('-v', '--verbose', help='increase output verbosity', action='store_true')
 
     # Parse arguments
     args = parser.parse_args()
     verboseSetting = bool(args.verbose)
-    user_set = str(args.set)
+    userSet = str(args.set)
+    pullCardInfo = bool(args.cards)
     pageNum = 1
 
     if(verboseSetting): print("Outputting verbosely\n"+script_dir)
 
     # Used to verify that the two sets are actually identical.
-    cardSetURL = "https://api.scryfall.com/sets/" + user_set
+    cardSetURL = "https://api.scryfall.com/sets/" + userSet
 
-    cardListURL = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set +"&unique=prints&page=" + str(pageNum)
+    cardListURL = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ userSet +"&unique=prints&page=" + str(pageNum)
 
     setData = requests.get(cardSetURL)
     responseData = requests.get(cardListURL)
@@ -44,7 +46,6 @@ def main():
     parsedCardFile = json.loads(jsonParse(responseData.json()))
 
     if(verboseSetting): print("Card set from the set search ...  ? -> " + parsedSetFile['name'])
-
     if(verboseSetting): print("Card set from the card ID    ... " + parsedCardFile["data"][0]["collector_number"] + "? -> "+ parsedCardFile['data'][0]['set_name'])
 
     setNameFromSearch = parsedSetFile['name']
@@ -69,13 +70,14 @@ def main():
         print("\n\n--!-- Does output have \"next page\"?")
         print(parsedCardFile['has_more'])
 
-    MasterOutput = GrabCards.GrabCards(user_set, cardSetURL, cardListURL, setData, responseData, pageNum, verboseSetting)
-    # Serializing json
-    json_object = json.dumps(MasterOutput, indent=4)
- 
-    # Writing to sample.json
-    with open("output.json", "w") as outfile:
-        outfile.write(json_object)
+    if(pullCardInfo):
+        MasterOutput = GrabCards.GrabCards(UserSet=userSet, ResponseData=responseData, PageNum=pageNum, VerboseSetting=verboseSetting)
+        # Serializing json
+        outputObject = json.dumps(MasterOutput, indent=4)
+    
+        # Writing to sample.json
+        with open("output/" + setNameFromSearch + "_card_name_info.json", "w") as outfile:
+            outfile.write(outputObject)
 
 if __name__ == "__main__":
     main()
