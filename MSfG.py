@@ -98,6 +98,7 @@ def main():
     # Declare MasterOutput for modification in the following blocks.
     MasterOutput = None
 
+    # TODO - as it turns out its kinda fucked rn
     if(pullCardInfo):
         MasterOutput = GrabCards.GrabCards(UserSet=userSet, ResponseData=responseData, PageNum=pageNum, VerboseSetting=verboseSetting)
         # Serializing json
