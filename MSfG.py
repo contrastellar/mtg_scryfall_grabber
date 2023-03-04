@@ -1,4 +1,5 @@
 #/opt/homebrew/bin/python3
+# pylint: disable=C0301
 """
 Module for scraping usefull info off of the scryfall 
 REST API when invoked as a module, versus a library
@@ -68,9 +69,6 @@ def main():
 
     if bool(args.verbose):
         print("Card set from the set search ...  ? -> " + parsedSetFile['name'])
-
-    if bool(args.verbose):
-        print("Card set from the card ID    ... " + parsedCardFile["data"][0]["collector_number"] + "? -> "+ parsedCardFile['data'][0]['set_name'])
 
     setNameFromSearch = parsedSetFile['name']
     setNameFromCard = parsedCardFile['data'][0]['set_name']
