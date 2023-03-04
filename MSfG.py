@@ -1,5 +1,7 @@
 #/opt/homebrew/bin/python3
-# pylint: disable=C0301
+# pylint: disable=C0301 
+# pylint: max-local-variables=64
+
 """
 Module for scraping usefull info off of the scryfall 
 REST API when invoked as a module, versus a library
@@ -15,21 +17,21 @@ import requests
 import grab_cards
 
 
-def jsonParse(obj):
+def json_parse(obj):
     """
     Return a string object of the json passed in via obj
     """
     text = json.dumps(obj, sort_keys=True, indent=3)
     return text
 
-pageNum = 1
-module_description = "Script to pull card info from api.scryfall.com based on specific set"
+PAGENUM = 1
+MODULE_DESCRIPTION = "Script to pull card info from api.scryfall.com based on specific set"
 
 def main():
     """
     main, allowing this to be invoked as a module from the command line.
     """
-    parser = argparse.ArgumentParser(description=module_description)
+    parser = argparse.ArgumentParser(description=MODULE_DESCRIPTION)
 
     parser.add_argument('set', metavar='set',
                         help="3-5 letter/number ID that dictates which set to pull from")
@@ -41,41 +43,41 @@ def main():
 
     # Parse arguments
     args = parser.parse_args()
-    userSet = str(args.set)
-    pullCardInfo = bool(args.cards)
+    user_set = str(args.set)
+    pull_card_info = bool(args.cards)
 
     if bool(args.verbose):
         print("Outputting verbosely\n"+os.path.abspath(os.path.dirname( __file__ )))
 
     # Used to verify that the two sets are actually identical.
-    cardSetURL = "https://api.scryfall.com/sets/" + userSet
+    card_set_url = "https://api.scryfall.com/sets/" + user_set
 
-    cardListURL = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ userSet +"&unique=prints&page=" + str(pageNum)
+    card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set +"&unique=prints&page=" + str(PAGENUM)
 
-    setData = requests.get(cardSetURL, timeout=10000)
-    responseData = requests.get(cardListURL, timeout=10000)
-
-    if bool(args.verbose):
-        print("Set URL  =   " + str(cardSetURL))
+    set_data = requests.get(card_set_url, timeout=10000)
+    response_data = requests.get(card_list_url, timeout=10000)
 
     if bool(args.verbose):
-        print("Card URL =   " + str(cardListURL))
+        print("Set URL  =   " + str(card_set_url))
 
     if bool(args.verbose):
-        print("Response code: " + str(responseData.status_code) + "\n")
-
-    parsedSetFile = json.loads(jsonParse(setData.json()))
-    parsedCardFile = json.loads(jsonParse(responseData.json()))
+        print("Card URL =   " + str(card_list_url))
 
     if bool(args.verbose):
-        print("Card set from the set search ...  ? -> " + parsedSetFile['name'])
+        print("Response code: " + str(response_data.status_code) + "\n")
 
-    setNameFromSearch = parsedSetFile['name']
-    setNameFromCard = parsedCardFile['data'][0]['set_name']
+    parsed_set_file = json.loads(json_parse(set_data.json()))
+    parsed_card_file = json.loads(json_parse(response_data.json()))
+
+    if bool(args.verbose):
+        print("Card set from the set search ...  ? -> " + parsed_set_file['name'])
+
+    set_name_from_search = parsed_set_file['name']
+    set_name_from_card = parsed_card_file['data'][0]['set_name']
 
     if bool(args.verbose):
         print("Are strings the same?")
-        if setNameFromCard == setNameFromSearch:
+        if set_name_from_card == set_name_from_search:
             print("Yes!")
 
         else:
@@ -84,25 +86,25 @@ def main():
             return
 
     if bool(args.verbose) :
-        print("Total cards --   " + str(parsedCardFile["total_cards"]))
+        print("Total cards --   " + str(parsed_card_file["total_cards"]))
 
         print("\n\n--!-- Does output have \"next page\"?")
-        print(parsedCardFile['has_more'])
+        print(parsed_card_file['has_more'])
 
     # Declare MasterOutput for modification in the following blocks.
-    MasterOutput = None
+    master_output = None
 
-    if pullCardInfo :
-        MasterOutput = grab_cards.GrabCards(UserSet=userSet,
-                                           ResponseData=responseData, PageNum=1,
+    if pull_card_info :
+        master_output = grab_cards.GrabCards(UserSet=user_set,
+                                           ResponseData=response_data, PageNum=1,
                                            VerboseSetting=bool(args.verbose))
         # Serializing json
-        outputObject = json.dumps(MasterOutput, indent=4)
+        output_object = json.dumps(master_output, indent=4)
 
         # Writing to sample.json
-        with open("output/" + setNameFromSearch +
+        with open("output/" + set_name_from_search +
                     "_card_name_info.json", "w", encoding="UTF8") as outfile:
-            outfile.write(outputObject)
+            outfile.write(output_object)
 
 if __name__ == "__main__":
     main()
