@@ -11,7 +11,7 @@ import os
 import json
 import argparse
 import requests
-import GrabCards
+import grab_cards
 
 
 def jsonParse(obj):
@@ -95,7 +95,7 @@ def main():
     MasterOutput = None
 
     if pullCardInfo :
-        MasterOutput = GrabCards.GrabCards(UserSet=userSet,
+        MasterOutput = grab_cards.GrabCards(UserSet=userSet,
                                            ResponseData=responseData, PageNum=1,
                                            VerboseSetting=bool(args.verbose))
         # Serializing json
