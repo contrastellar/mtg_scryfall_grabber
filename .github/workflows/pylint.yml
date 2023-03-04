@@ -19,7 +19,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
         pip install pylint
-    - name: Analysing the code for Errors with pylint
+    - name: Analysing msfg module for linting errors with pylint
       run: |
-        pylint  
+        pylint msfg 
         

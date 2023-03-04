@@ -1,5 +1,5 @@
 #/opt/homebrew/bin/python3
-# pylint: disable=C0301
+# pylint: disable=C0301 
 
 """
 Module for scraping usefull info off of the scryfall 
