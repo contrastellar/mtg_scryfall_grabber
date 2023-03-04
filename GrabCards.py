@@ -30,7 +30,7 @@ def GrabCards(UserSet, ResponseData, PageNum, VerboseSetting):
     i = 0
     for d in parsedCardFile['data']:
         output[i+1] = {}
-        output[i+1][0] = d["name"]
+        output[i+1]["Card Name"] = d["name"]
         i = i + 1
         Merge(masterOutput, output)
 
@@ -57,7 +57,7 @@ def GrabCards(UserSet, ResponseData, PageNum, VerboseSetting):
 
         for d in parsedCardFile['data']:
             output2[i+1] = {}
-            output2[i+1][0] = d["name"]
+            output2[i+1]["Card Name"] = d["name"]
             i = i + 1
             Merge(masterOutput, output2)
 
