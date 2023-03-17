@@ -81,7 +81,7 @@ def GrabPrices(UserSet, ResponseData, PageNum, VerboseSetting):
         Merge(masterOutput, output)
 
     # Sleeps are used to not get blocked by the API
-    time.sleep(1)
+    time.sleep(0.3)
 
     # Now, can go into the "has more"
     hasNext = parsedCardFile['has_more']
