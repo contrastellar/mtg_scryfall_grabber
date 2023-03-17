@@ -36,9 +36,12 @@ def main():
                         help="3-5 letter/number ID that dictates which set to pull from")
     parser.add_argument('-c', '--cards',
                         help="grab card names associated with specific IDs",
-                        action='store_true', default=True)
+                        action='store_true', 
+                        default=True)
     parser.add_argument('-v', '--verbose',
-                        help='increase output verbosity', action='store_true')
+                        help='increase output verbosity', 
+                        action='store_true',
+                        default=False)
 
     # Parse arguments
     args = parser.parse_args()

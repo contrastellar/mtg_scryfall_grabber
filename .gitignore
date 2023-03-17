@@ -1,5 +1,6 @@
 output/*.json
 *.json
+creating-release-guidebook.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
