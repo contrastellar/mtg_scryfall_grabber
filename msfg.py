@@ -94,9 +94,9 @@ def main():
     master_output = None
 
     if pull_card_info :
-        master_output = grab_cards.GrabCards(UserSet=user_set,
-                                           ResponseData=response_data, PageNum=1,
-                                           VerboseSetting=bool(args.verbose))
+        master_output = grab_cards.grab_cards(user_set=user_set,
+                                           response_data=response_data, page_num=1,
+                                           verbose_setting=bool(args.verbose))
         # Serializing json
         output_object = json.dumps(master_output, indent=4)
 
