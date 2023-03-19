@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mtg_scryfall_grabber"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Gabriella Agathon", email="gjstimac@gmail.com" },
 ]
