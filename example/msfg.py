@@ -15,7 +15,6 @@ import argparse
 import requests
 import grab_cards
 
-
 def json_parse(obj):
     """
     Return a string object of the json passed in via obj
@@ -23,6 +22,7 @@ def json_parse(obj):
     text = json.dumps(obj, sort_keys=True, indent=3)
     return text
 
+# Consts
 PAGENUM = 1
 MODULE_DESCRIPTION = "Script to pull card info from api.scryfall.com based on specific set"
 

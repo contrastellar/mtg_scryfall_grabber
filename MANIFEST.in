@@ -1,0 +1,4 @@
+include license.md 
+
+prune example
+prune .github
