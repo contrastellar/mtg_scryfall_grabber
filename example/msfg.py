@@ -13,7 +13,7 @@ import os
 import json
 import argparse
 import requests
-import grab_cards
+import mtg_scryfall_grabber
 
 def json_parse(obj):
     """
@@ -97,11 +97,16 @@ def main():
     master_output = None
 
     if pull_card_info :
-        master_output = grab_cards.grab_cards(user_set=user_set,
+        master_output = mtg_scryfall_grabber.grab_cards(user_set=user_set,
                                            response_data=response_data, page_num=1,
                                            verbose_setting=bool(args.verbose))
         # Serializing json
         output_object = json.dumps(master_output, indent=4)
+
+        path = "output"
+        does_exist = os.path.exists(path=path)
+        if not does_exist:
+            os.makedirs(path)
 
         # Writing to sample.json
         with open("output/" + set_name_from_search +
