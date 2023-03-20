@@ -17,9 +17,15 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
-        pip install pylint
-    - name: Analysing module for linting errors with pylint
+        pip install -r requirements.txt
+    - name: Analysing ./mtg_scryfall_grabber.py for linting errors with pylint
       run: |
-        pylint ./*.py
-        
+        pylint ./mtg_scryfall_grabber.py
+    - name: Installing build and twine
+      run: |
+        pip install --upgrade build
+        pip install --upgrade twine
+    - name: Build and verify
+      run: |
+        python3 -m build
+        twine check dist/*
