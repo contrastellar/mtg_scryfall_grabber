@@ -82,7 +82,7 @@ def grab_prices(user_set, response_data, page_num, verbose_setting):
         merge(master_output, output)
 
     # Sleeps are used to not get blocked by the API
-    time.sleep()
+    time.sleep(0.25)
 
     # Now, can go into the "has more"
     has_next = parsed_card_file['has_more']
@@ -108,6 +108,6 @@ def grab_prices(user_set, response_data, page_num, verbose_setting):
             i = i + 1
             merge(master_output, output2)
 
-        time.sleep(1)
+        time.sleep(0.25)
 
     return master_output
