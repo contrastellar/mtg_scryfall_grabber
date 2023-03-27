@@ -20,7 +20,7 @@ def json_parse(obj):
     text = json.dumps(obj, sort_keys=True, indent=3)
     return text
 
-def grab_cards(user_set, response_data, page_num, verbose_setting):
+def grab_cards(user_set, response_data, page_num, verbose_setting, prices):
     """
         Grabs all cards from a user defined set @UserSet
     """
@@ -34,6 +34,17 @@ def grab_cards(user_set, response_data, page_num, verbose_setting):
         output[i+1]["Card Name"] = data["name"]
         i = i + 1
         merge(master_output, output)
+    
+    
+    if prices:
+        # TODO -- verify this works I have no idea if it does or doesn't
+        output = {}
+        i = 0
+        for data in parsed_card_file['data']:
+            output[i+1] = {}
+            output[i+1]["Prces"] = data["prices"]
+            i = i + 1
+            merge(master_output, output)
 
     # Sleeps are used to not get blocked by the API
     time.sleep(0.25)
@@ -66,10 +77,12 @@ def grab_cards(user_set, response_data, page_num, verbose_setting):
 
     return master_output
 
+# Deprecated 
 def grab_prices(user_set, response_data, page_num, verbose_setting):
     """
         Grabs all prices for the collectors numbers as defined in the set @UserSet
     """
+    raise Exception('Deprecated function, will be removed in 0.2.0')
     parsed_card_file = json.loads(json_parse(response_data.json()))
 
     master_output = {}

@@ -38,6 +38,11 @@ def main():
                         help="grab card names associated with specific IDs",
                         action='store_true', 
                         default=True)
+    parser.add_argument('-p', '--price',
+                        help="grab card price associated with collector number",
+                        action='store_true',
+                        default=False
+                        )
     parser.add_argument('-v', '--verbose',
                         help='increase output verbosity', 
                         action='store_true',
@@ -47,9 +52,11 @@ def main():
     args = parser.parse_args()
     user_set = str(args.set)
     pull_card_info = bool(args.cards)
+    pull_price_info = bool(args.price)
 
     if bool(args.verbose):
         print("Outputting verbosely\n"+os.path.abspath(os.path.dirname( __file__ )))
+        print(args)
 
     # Used to verify that the two sets are actually identical.
     card_set_url = "https://api.scryfall.com/sets/" + user_set
@@ -96,22 +103,33 @@ def main():
     # Declare MasterOutput for modification in the following blocks.
     master_output = None
 
-    if pull_card_info :
-        master_output = mtg_scryfall_grabber.grab_cards(user_set=user_set,
+    # it is assumend that pull_card_info is always true
+    # calling the flag is for brevity/old code that I don't
+    # feel like getting rid of
+    master_output = mtg_scryfall_grabber.grab_cards(user_set=user_set,
                                            response_data=response_data, page_num=1,
-                                           verbose_setting=bool(args.verbose))
-        # Serializing json
-        output_object = json.dumps(master_output, indent=4)
+                                           verbose_setting=bool(args.verbose), 
+                                           prices=pull_price_info)
 
-        path = "output"
-        does_exist = os.path.exists(path=path)
-        if not does_exist:
-            os.makedirs(path)
+    # Serializing json, this happens regardless of pull_card_info or any other state
+    output_object = json.dumps(master_output, indent=4)
 
-        # Writing to sample.json
-        with open("output/" + set_name_from_search +
-                    "_card_name_info.json", "w", encoding="UTF8") as outfile:
-            outfile.write(output_object)
+    path = "output"
+    does_exist = os.path.exists(path=path)
+    if not does_exist:
+        os.makedirs(path)
+
+    # Create Filename based on arguments
+    file_name = ""
+    file_name += set_name_from_search
+    if pull_card_info :
+        file_name += "_name"
+    if pull_price_info :
+        file_name += "_price"
+
+    # Writing to sample.json
+    with open("output/" + file_name + ".json", "w", encoding="UTF8") as outfile:
+        outfile.write(output_object)
 
 if __name__ == "__main__":
     main()
