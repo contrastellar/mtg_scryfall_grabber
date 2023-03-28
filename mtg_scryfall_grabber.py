@@ -1,6 +1,7 @@
 #/opt/homebrew/bin/python3
 # pylint: disable=C0301
 # pylint: disable=C0303
+# pylint: disable=R0913
 """
 Utility script in order to pull complete card sets from Scryfall
 
