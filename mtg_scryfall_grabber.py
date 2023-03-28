@@ -32,6 +32,7 @@ def grab_cards(user_set, response_data, page_num, verbose_setting, prices):
     for data in parsed_card_file['data']:
         output[i+1] = {}
         output[i+1]["Card Name"] = data["name"]
+        output[i+1]["Price"] = data["prices"]
         i = i + 1
         merge(master_output, output)
     
@@ -70,6 +71,7 @@ def grab_cards(user_set, response_data, page_num, verbose_setting, prices):
         for data in parsed_card_file['data']:
             output2[i+1] = {}
             output2[i+1]["Card Name"] = data["name"]
+            output2[i+1]["Price"] = data["prices"]
             i = i + 1
             merge(master_output, output2)
 
