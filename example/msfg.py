@@ -11,11 +11,16 @@ Author: Contrastellar (Gabriella Agathon)
 
 import os
 import json
+import time
 import argparse
 import requests
 import mtg_scryfall_grabber
 
-def json_parse(obj):
+def merge(dict1, dict2) -> dict:
+    """Merge two dictionaries together"""
+    return dict1.update(dict2)
+
+def json_parse(obj) -> str:
     """
     Return a string object of the json passed in via obj
     """
@@ -37,7 +42,7 @@ def main():
     parser.add_argument('-c', '--cards',
                         help="grab card names associated with specific IDs",
                         action='store_true', 
-                        default=True)
+                        default=False)
     parser.add_argument('-p', '--price',
                         help="grab card price associated with collector number",
                         action='store_true',
@@ -68,11 +73,7 @@ def main():
 
     if bool(args.verbose):
         print("Set URL  =   " + str(card_set_url))
-
-    if bool(args.verbose):
         print("Card URL =   " + str(card_list_url))
-
-    if bool(args.verbose):
         print("Response code: " + str(response_data.status_code) + "\n")
 
     parsed_set_file = json.loads(json_parse(set_data.json()))
@@ -108,8 +109,7 @@ def main():
     # feel like getting rid of
     master_output = mtg_scryfall_grabber.grab_cards(user_set=user_set,
                                            response_data=response_data, page_num=1,
-                                           verbose_setting=bool(args.verbose), 
-                                           prices=pull_price_info)
+                                           verbose_setting=bool(args.verbose), name=pull_card_info, prices=pull_price_info)
 
     # Serializing json, this happens regardless of pull_card_info or any other state
     output_object = json.dumps(master_output, indent=4)
@@ -126,6 +126,7 @@ def main():
         file_name += "_name"
     if pull_price_info :
         file_name += "_price"
+    file_name += str(int(time.time()))
 
     # Writing to sample.json
     with open("output/" + file_name + ".json", "w", encoding="UTF8") as outfile:
