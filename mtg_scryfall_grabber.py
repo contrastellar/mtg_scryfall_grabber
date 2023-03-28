@@ -73,59 +73,11 @@ def grab_cards(user_set, response_data, page_num, verbose_setting, name, prices)
 
             if prices:
                 output[i+1]["Price"] = data["prices"]
-                
+
             i = i + 1
             merge(master_output, output2)
 
         time.sleep(0.25)
 
     # Return the master_output dictionary, so it can be parsed.
-    return master_output
-
-# Deprecated 
-def grab_prices(user_set, response_data, page_num, verbose_setting):
-    """
-        Grabs all prices for the collectors numbers as defined in the set @UserSet
-    """
-    raise Exception('Deprecated function, will be removed in 0.2.0')
-    parsed_card_file = json.loads(json_parse(response_data.json()))
-
-    master_output = {}
-    output = {}
-    i = 0
-    for data in parsed_card_file['data']:
-        output[i+1] = {}
-        output[i+1][1] = data["prices"]
-        i = i + 1
-        merge(master_output, output)
-
-    # Sleeps are used to not get blocked by the API
-    time.sleep(0.25)
-
-    # Now, can go into the "has more"
-    has_next = parsed_card_file['has_more']
-
-    while has_next:
-
-        page_num += 1
-        card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set +"&unique=prints&page=" + str(page_num)
-
-        response_data = requests.get(card_list_url, timeout=10000)
-        if verbose_setting:
-            print("Card URL =   " + str(card_list_url))
-        if verbose_setting:
-            print("Response code: " + str(response_data.status_code) + "\n")
-
-        parsed_card_file = json.loads(json_parse(response_data.json()))
-        has_next = parsed_card_file['has_more']
-        output2 = {}
-
-        for data in parsed_card_file['data']:
-            output2[i+1] = {}
-            output2[i+1] = data["name"]
-            i = i + 1
-            merge(master_output, output2)
-
-        time.sleep(0.25)
-
     return master_output
