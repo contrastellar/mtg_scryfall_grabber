@@ -58,7 +58,7 @@ py msfg.py ONE -c -p
 python3 msfg.py ONE -c -p
 ```
 
-In `./example/`, this will create a directory named "output", which will contain a `.json` file named `Phyrexia: All Will Be One_card_name_info.json`
+In `./example/`, this will create a directory named "output", which will contain a `.json` file named `Phyrexia: All Will Be One_card_name_price_$UNIX_TIME_OF_RUN.json` where `$UNIX_TIME_OF_RUN` is a time like `1679966043`.
 
 ## TODO
 
