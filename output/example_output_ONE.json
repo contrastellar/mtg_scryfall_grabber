@@ -1,0 +1,5271 @@
+{
+    "1": {
+        "Card Name": "Against All Odds",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.16"
+        }
+    },
+    "2": {
+        "Card Name": "Annex Sentry",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.10",
+            "tix": "0.01",
+            "usd": "0.12",
+            "usd_etched": null,
+            "usd_foil": "0.24"
+        }
+    },
+    "3": {
+        "Card Name": "Apostle of Invasion",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.13",
+            "tix": "0.02",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "4": {
+        "Card Name": "Basilica Shepherd",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.11",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "5": {
+        "Card Name": "Bladed Ambassador",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "6": {
+        "Card Name": "Charge of the Mites",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "7": {
+        "Card Name": "Compleat Devotion",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "8": {
+        "Card Name": "Crawling Chorus",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.20",
+            "tix": "0.01",
+            "usd": "0.09",
+            "usd_etched": null,
+            "usd_foil": "0.31"
+        }
+    },
+    "9": {
+        "Card Name": "Duelist of Deep Faith",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "10": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": "29.08",
+            "eur_foil": "40.00",
+            "tix": "8.07",
+            "usd": "30.87",
+            "usd_etched": null,
+            "usd_foil": "36.56"
+        }
+    },
+    "11": {
+        "Card Name": "The Eternal Wanderer",
+        "Price": {
+            "eur": "2.31",
+            "eur_foil": "6.00",
+            "tix": "0.06",
+            "usd": "1.69",
+            "usd_etched": null,
+            "usd_foil": "2.05"
+        }
+    },
+    "12": {
+        "Card Name": "Flensing Raptor",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "13": {
+        "Card Name": "Goldwarden's Helm",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "14": {
+        "Card Name": "Hexgold Hoverwings",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.09",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "15": {
+        "Card Name": "Incisor Glider",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.02",
+            "tix": "0.03",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "16": {
+        "Card Name": "Indoctrination Attendant",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.09",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "17": {
+        "Card Name": "Infested Fleshcutter",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.26"
+        }
+    },
+    "18": {
+        "Card Name": "Jawbone Duelist",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.06",
+            "tix": "0.01",
+            "usd": "0.12",
+            "usd_etched": null,
+            "usd_foil": "0.41"
+        }
+    },
+    "19": {
+        "Card Name": "Kemba, Kha Enduring",
+        "Price": {
+            "eur": "0.36",
+            "eur_foil": "0.99",
+            "tix": "0.04",
+            "usd": "0.21",
+            "usd_etched": null,
+            "usd_foil": "0.35"
+        }
+    },
+    "20": {
+        "Card Name": "Leonin Lightbringer",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "21": {
+        "Card Name": "Mandible Justiciar",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.02",
+            "tix": "0.02",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "22": {
+        "Card Name": "Mirran Bardiche",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "23": {
+        "Card Name": "Mondrak, Glory Dominus",
+        "Price": {
+            "eur": "18.76",
+            "eur_foil": "20.12",
+            "tix": "1.79",
+            "usd": "25.95",
+            "usd_etched": null,
+            "usd_foil": "29.53"
+        }
+    },
+    "24": {
+        "Card Name": "Norn's Wellspring",
+        "Price": {
+            "eur": "0.44",
+            "eur_foil": "0.45",
+            "tix": "0.01",
+            "usd": "0.19",
+            "usd_etched": null,
+            "usd_foil": "0.37"
+        }
+    },
+    "25": {
+        "Card Name": "Orthodoxy Enforcer",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "26": {
+        "Card Name": "Ossification",
+        "Price": {
+            "eur": "0.24",
+            "eur_foil": "0.59",
+            "tix": "0.01",
+            "usd": "0.42",
+            "usd_etched": null,
+            "usd_foil": "0.54"
+        }
+    },
+    "27": {
+        "Card Name": "Phyrexian Vindicator",
+        "Price": {
+            "eur": "4.41",
+            "eur_foil": "4.92",
+            "tix": "1.14",
+            "usd": "4.48",
+            "usd_etched": null,
+            "usd_foil": "5.29"
+        }
+    },
+    "28": {
+        "Card Name": "Planar Disruption",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.11",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "29": {
+        "Card Name": "Plated Onslaught",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "30": {
+        "Card Name": "Porcelain Zealot",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.09",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "31": {
+        "Card Name": "Resistance Reunited",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.14",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "32": {
+        "Card Name": "Sinew Dancer",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "33": {
+        "Card Name": "Skrelv, Defector Mite",
+        "Price": {
+            "eur": "5.34",
+            "eur_foil": "7.50",
+            "tix": "0.80",
+            "usd": "4.25",
+            "usd_etched": null,
+            "usd_foil": "5.38"
+        }
+    },
+    "34": {
+        "Card Name": "Skrelv's Hive",
+        "Price": {
+            "eur": "4.01",
+            "eur_foil": "4.97",
+            "tix": "0.27",
+            "usd": "2.65",
+            "usd_etched": null,
+            "usd_foil": "2.90"
+        }
+    },
+    "35": {
+        "Card Name": "Swooping Lookout",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.19"
+        }
+    },
+    "36": {
+        "Card Name": "Vanish into Eternity",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.06",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "37": {
+        "Card Name": "Veil of Assimilation",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "38": {
+        "Card Name": "White Sun's Twilight",
+        "Price": {
+            "eur": "1.51",
+            "eur_foil": "2.19",
+            "tix": "0.02",
+            "usd": "1.72",
+            "usd_etched": null,
+            "usd_foil": "2.13"
+        }
+    },
+    "39": {
+        "Card Name": "Zealot's Conviction",
+        "Price": {
+            "eur": "0.49",
+            "eur_foil": "0.20",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "40": {
+        "Card Name": "Aspirant's Ascent",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.09",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "41": {
+        "Card Name": "Atmosphere Surgeon",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "42": {
+        "Card Name": "Blade of Shared Souls",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.20",
+            "tix": "0.02",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.34"
+        }
+    },
+    "43": {
+        "Card Name": "Blue Sun's Twilight",
+        "Price": {
+            "eur": "0.37",
+            "eur_foil": "0.48",
+            "tix": "0.08",
+            "usd": "0.47",
+            "usd_etched": null,
+            "usd_foil": "0.72"
+        }
+    },
+    "44": {
+        "Card Name": "Bring the Ending",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.09",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "45": {
+        "Card Name": "Chrome Prowler",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "46": {
+        "Card Name": "Distorted Curiosity",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.11",
+            "usd_etched": null,
+            "usd_foil": "0.24"
+        }
+    },
+    "47": {
+        "Card Name": "Encroaching Mycosynth",
+        "Price": {
+            "eur": "0.18",
+            "eur_foil": "0.41",
+            "tix": "0.01",
+            "usd": "0.39",
+            "usd_etched": null,
+            "usd_foil": "0.45"
+        }
+    },
+    "48": {
+        "Card Name": "Escaped Experiment",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "49": {
+        "Card Name": "Experimental Augury",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.27",
+            "tix": "0.01",
+            "usd": "0.26",
+            "usd_etched": null,
+            "usd_foil": "1.09"
+        }
+    },
+    "50": {
+        "Card Name": "Eye of Malcator",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "51": {
+        "Card Name": "Font of Progress",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "52": {
+        "Card Name": "Gitaxian Anatomist",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "53": {
+        "Card Name": "Gitaxian Raptor",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "54": {
+        "Card Name": "Glistener Seer",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "55": {
+        "Card Name": "Ichor Synthesizer",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "56": {
+        "Card Name": "Ichormoon Gauntlet",
+        "Price": {
+            "eur": "6.61",
+            "eur_foil": "10.02",
+            "tix": "1.94",
+            "usd": "8.15",
+            "usd_etched": null,
+            "usd_foil": "8.84"
+        }
+    },
+    "57": {
+        "Card Name": "Jace, the Perfected Mind",
+        "Price": {
+            "eur": "7.19",
+            "eur_foil": "10.04",
+            "tix": "4.15",
+            "usd": "4.40",
+            "usd_etched": null,
+            "usd_foil": "7.79"
+        }
+    },
+    "58": {
+        "Card Name": "Malcator's Watcher",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.10",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "59": {
+        "Card Name": "Meldweb Curator",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "60": {
+        "Card Name": "Meldweb Strider",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "61": {
+        "Card Name": "Mercurial Spelldancer",
+        "Price": {
+            "eur": "2.64",
+            "eur_foil": "4.00",
+            "tix": "0.31",
+            "usd": "1.33",
+            "usd_etched": null,
+            "usd_foil": "2.31"
+        }
+    },
+    "62": {
+        "Card Name": "Mesmerizing Dose",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "63": {
+        "Card Name": "Mindsplice Apparatus",
+        "Price": {
+            "eur": "0.46",
+            "eur_foil": "0.44",
+            "tix": "0.02",
+            "usd": "0.78",
+            "usd_etched": null,
+            "usd_foil": "0.94"
+        }
+    },
+    "64": {
+        "Card Name": "Minor Misstep",
+        "Price": {
+            "eur": "0.93",
+            "eur_foil": "2.44",
+            "tix": "0.02",
+            "usd": "0.39",
+            "usd_etched": null,
+            "usd_foil": "2.36"
+        }
+    },
+    "65": {
+        "Card Name": "Prologue to Phyresis",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.27",
+            "tix": "0.01",
+            "usd": "0.20",
+            "usd_etched": null,
+            "usd_foil": "2.10"
+        }
+    },
+    "66": {
+        "Card Name": "Quicksilver Fisher",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.07",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "67": {
+        "Card Name": "Reject Imperfection",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.20",
+            "tix": "0.01",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.24"
+        }
+    },
+    "68": {
+        "Card Name": "Serum Snare",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.11",
+            "usd_etched": null,
+            "usd_foil": "0.26"
+        }
+    },
+    "69": {
+        "Card Name": "Tamiyo's Immobilizer",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.06",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "70": {
+        "Card Name": "Tamiyo's Logbook",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.09",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "71": {
+        "Card Name": "Tekuthal, Inquiry Dominus",
+        "Price": {
+            "eur": "4.36",
+            "eur_foil": "5.55",
+            "tix": "0.54",
+            "usd": "3.63",
+            "usd_etched": null,
+            "usd_foil": "6.78"
+        }
+    },
+    "72": {
+        "Card Name": "Thrummingbird",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.06",
+            "tix": "0.01",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.19"
+        }
+    },
+    "73": {
+        "Card Name": "Transplant Theorist",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "74": {
+        "Card Name": "Trawler Drake",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.10",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "75": {
+        "Card Name": "Unctus, Grand Metatect",
+        "Price": {
+            "eur": "0.26",
+            "eur_foil": "0.50",
+            "tix": "0.05",
+            "usd": "0.28",
+            "usd_etched": null,
+            "usd_foil": "0.48"
+        }
+    },
+    "76": {
+        "Card Name": "Unctus's Retrofitter",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.09",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "77": {
+        "Card Name": "Vivisurgeon's Insight",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.07",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.20"
+        }
+    },
+    "78": {
+        "Card Name": "Watchful Blisterzoa",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "79": {
+        "Card Name": "Ambulatory Edifice",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "80": {
+        "Card Name": "Annihilating Glare",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.15",
+            "tix": "0.02",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "81": {
+        "Card Name": "Anoint with Affliction",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.15",
+            "tix": "0.01",
+            "usd": "0.08",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "82": {
+        "Card Name": "Archfiend of the Dross",
+        "Price": {
+            "eur": "0.24",
+            "eur_foil": "0.49",
+            "tix": "0.02",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.34"
+        }
+    },
+    "83": {
+        "Card Name": "Bilious Skulldweller",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.20",
+            "tix": "0.01",
+            "usd": "0.08",
+            "usd_etched": null,
+            "usd_foil": "0.33"
+        }
+    },
+    "84": {
+        "Card Name": "Black Sun's Twilight",
+        "Price": {
+            "eur": "0.44",
+            "eur_foil": "0.41",
+            "tix": "0.01",
+            "usd": "0.34",
+            "usd_etched": null,
+            "usd_foil": "0.75"
+        }
+    },
+    "85": {
+        "Card Name": "Blightbelly Rat",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.08",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "86": {
+        "Card Name": "Bonepicker Skirge",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.11",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "87": {
+        "Card Name": "Chittering Skitterling",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.38",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "88": {
+        "Card Name": "Cruel Grimnarch",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "89": {
+        "Card Name": "Cutthroat Centurion",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "90": {
+        "Card Name": "Drivnod, Carnage Dominus",
+        "Price": {
+            "eur": "3.63",
+            "eur_foil": "4.30",
+            "tix": "0.58",
+            "usd": "3.68",
+            "usd_etched": null,
+            "usd_foil": "5.94"
+        }
+    },
+    "91": {
+        "Card Name": "Drown in Ichor",
+        "Price": {
+            "eur": "0.20",
+            "eur_foil": "0.32",
+            "tix": "0.02",
+            "usd": "0.31",
+            "usd_etched": null,
+            "usd_foil": "0.47"
+        }
+    },
+    "92": {
+        "Card Name": "Duress",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.20",
+            "tix": "0.02",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "93": {
+        "Card Name": "Feed the Infection",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.11",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "94": {
+        "Card Name": "Fleshless Gladiator",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "95": {
+        "Card Name": "Geth, Thane of Contracts",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.23",
+            "tix": "0.01",
+            "usd": "0.10",
+            "usd_etched": null,
+            "usd_foil": "0.20"
+        }
+    },
+    "96": {
+        "Card Name": "Gulping Scraptrap",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "97": {
+        "Card Name": "Infectious Inquiry",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.14",
+            "tix": "0.01",
+            "usd": "0.10",
+            "usd_etched": null,
+            "usd_foil": "0.35"
+        }
+    },
+    "98": {
+        "Card Name": "Karumonix, the Rat King",
+        "Price": {
+            "eur": "0.19",
+            "eur_foil": "0.10",
+            "tix": "0.01",
+            "usd": "0.27",
+            "usd_etched": null,
+            "usd_foil": "0.39"
+        }
+    },
+    "99": {
+        "Card Name": "Necrogen Communion",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.28",
+            "tix": "0.02",
+            "usd": "0.17",
+            "usd_etched": null,
+            "usd_foil": "0.56"
+        }
+    },
+    "100": {
+        "Card Name": "Necrosquito",
+        "Price": {
+            "eur": "0.26",
+            "eur_foil": "0.08",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "101": {
+        "Card Name": "Nimraiser Paladin",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.10",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "102": {
+        "Card Name": "Offer Immortality",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.08",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "103": {
+        "Card Name": "Pestilent Syphoner",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "104": {
+        "Card Name": "Phyrexian Arena",
+        "Price": {
+            "eur": "2.66",
+            "eur_foil": "2.98",
+            "tix": "0.02",
+            "usd": "2.15",
+            "usd_etched": null,
+            "usd_foil": "2.71"
+        }
+    },
+    "105": {
+        "Card Name": "Phyrexian Obliterator",
+        "Price": {
+            "eur": "9.93",
+            "eur_foil": "10.26",
+            "tix": "0.73",
+            "usd": "7.13",
+            "usd_etched": null,
+            "usd_foil": "7.76"
+        }
+    },
+    "106": {
+        "Card Name": "Ravenous Necrotitan",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "107": {
+        "Card Name": "Scheming Aspirant",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.19",
+            "tix": "0.02",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.20"
+        }
+    },
+    "108": {
+        "Card Name": "Sheoldred's Edict",
+        "Price": {
+            "eur": "0.79",
+            "eur_foil": "1.61",
+            "tix": "0.01",
+            "usd": "0.66",
+            "usd_etched": null,
+            "usd_foil": "0.90"
+        }
+    },
+    "109": {
+        "Card Name": "Sheoldred's Headcleaver",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.08",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "110": {
+        "Card Name": "Stinging Hivemaster",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "111": {
+        "Card Name": "Testament Bearer",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "112": {
+        "Card Name": "Vat Emergence",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.30"
+        }
+    },
+    "113": {
+        "Card Name": "Vat of Rebirth",
+        "Price": {
+            "eur": "0.15",
+            "eur_foil": "0.44",
+            "tix": "0.01",
+            "usd": "0.16",
+            "usd_etched": null,
+            "usd_foil": "0.55"
+        }
+    },
+    "114": {
+        "Card Name": "Vraan, Executioner Thane",
+        "Price": {
+            "eur": "0.25",
+            "eur_foil": "0.23",
+            "tix": "0.01",
+            "usd": "0.35",
+            "usd_etched": null,
+            "usd_foil": "0.47"
+        }
+    },
+    "115": {
+        "Card Name": "Vraska, Betrayal's Sting",
+        "Price": {
+            "eur": "9.34",
+            "eur_foil": "12.99",
+            "tix": "1.19",
+            "usd": "10.03",
+            "usd_etched": null,
+            "usd_foil": "11.89"
+        }
+    },
+    "116": {
+        "Card Name": "Vraska's Fall",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.09",
+            "usd_etched": null,
+            "usd_foil": "0.50"
+        }
+    },
+    "117": {
+        "Card Name": "Whisper of the Dross",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.09",
+            "usd_etched": null,
+            "usd_foil": "0.41"
+        }
+    },
+    "118": {
+        "Card Name": "All Will Be One",
+        "Price": {
+            "eur": "4.72",
+            "eur_foil": "5.53",
+            "tix": "1.06",
+            "usd": "6.56",
+            "usd_etched": null,
+            "usd_foil": "8.71"
+        }
+    },
+    "119": {
+        "Card Name": "Awaken the Sleeper",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "120": {
+        "Card Name": "Axiom Engraver",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "121": {
+        "Card Name": "Barbed Batterfist",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "0.09",
+            "tix": "0.02",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "122": {
+        "Card Name": "Bladegraft Aspirant",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "123": {
+        "Card Name": "Blazing Crescendo",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "124": {
+        "Card Name": "Cacophony Scamp",
+        "Price": {
+            "eur": "0.31",
+            "eur_foil": "0.14",
+            "tix": "0.01",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.25"
+        }
+    },
+    "125": {
+        "Card Name": "Capricious Hellraiser",
+        "Price": {
+            "eur": "2.00",
+            "eur_foil": "2.99",
+            "tix": "2.52",
+            "usd": "1.16",
+            "usd_etched": null,
+            "usd_foil": "1.94"
+        }
+    },
+    "126": {
+        "Card Name": "Chimney Rabble",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "127": {
+        "Card Name": "Churning Reservoir",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "128": {
+        "Card Name": "Dragonwing Glider",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.08",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "129": {
+        "Card Name": "Exuberant Fuseling",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.16",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.22"
+        }
+    },
+    "130": {
+        "Card Name": "Forgehammer Centurion",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "131": {
+        "Card Name": "Free from Flesh",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.51",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "132": {
+        "Card Name": "Furnace Punisher",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.25",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "133": {
+        "Card Name": "Furnace Strider",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "134": {
+        "Card Name": "Gleeful Demolition",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "0.30",
+            "tix": "0.01",
+            "usd": "0.20",
+            "usd_etched": null,
+            "usd_foil": "0.36"
+        }
+    },
+    "135": {
+        "Card Name": "Hazardous Blast",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "136": {
+        "Card Name": "Hexgold Halberd",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "137": {
+        "Card Name": "Hexgold Slash",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "138": {
+        "Card Name": "Koth, Fire of Resistance",
+        "Price": {
+            "eur": "0.26",
+            "eur_foil": "0.78",
+            "tix": "0.05",
+            "usd": "0.44",
+            "usd_etched": null,
+            "usd_foil": "0.65"
+        }
+    },
+    "139": {
+        "Card Name": "Kuldotha Cackler",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "140": {
+        "Card Name": "Magmatic Sprinter",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.05",
+            "tix": "0.02",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "141": {
+        "Card Name": "Molten Rebuke",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "142": {
+        "Card Name": "Nahiri's Sacrifice",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "143": {
+        "Card Name": "Oxidda Finisher",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.36",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "144": {
+        "Card Name": "Rebel Salvo",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.09",
+            "usd_etched": null,
+            "usd_foil": "0.20"
+        }
+    },
+    "145": {
+        "Card Name": "Red Sun's Twilight",
+        "Price": {
+            "eur": "0.20",
+            "eur_foil": "0.11",
+            "tix": "0.01",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.52"
+        }
+    },
+    "146": {
+        "Card Name": "Resistance Skywarden",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "147": {
+        "Card Name": "Sawblade Scamp",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "148": {
+        "Card Name": "Shrapnel Slinger",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "149": {
+        "Card Name": "Slobad, Iron Goblin",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.19",
+            "tix": "0.01",
+            "usd": "0.14",
+            "usd_etched": null,
+            "usd_foil": "0.22"
+        }
+    },
+    "150": {
+        "Card Name": "Solphim, Mayhem Dominus",
+        "Price": {
+            "eur": "4.62",
+            "eur_foil": "6.20",
+            "tix": "0.78",
+            "usd": "4.99",
+            "usd_etched": null,
+            "usd_foil": "12.44"
+        }
+    },
+    "151": {
+        "Card Name": "Thrill of Possibility",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.17",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "152": {
+        "Card Name": "Urabrask's Anointer",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "153": {
+        "Card Name": "Urabrask's Forge",
+        "Price": {
+            "eur": "0.24",
+            "eur_foil": "0.40",
+            "tix": "0.02",
+            "usd": "0.31",
+            "usd_etched": null,
+            "usd_foil": "0.52"
+        }
+    },
+    "154": {
+        "Card Name": "Vindictive Flamestoker",
+        "Price": {
+            "eur": "0.29",
+            "eur_foil": "0.42",
+            "tix": "0.04",
+            "usd": "0.17",
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "155": {
+        "Card Name": "Volt Charge",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "156": {
+        "Card Name": "Vulshok Splitter",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "157": {
+        "Card Name": "Adaptive Sporesinger",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.15",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "158": {
+        "Card Name": "Armored Scrapgorger",
+        "Price": {
+            "eur": "0.15",
+            "eur_foil": "0.28",
+            "tix": "0.01",
+            "usd": "0.14",
+            "usd_etched": null,
+            "usd_foil": "0.33"
+        }
+    },
+    "159": {
+        "Card Name": "Bloated Contaminator",
+        "Price": {
+            "eur": "2.55",
+            "eur_foil": "3.20",
+            "tix": "0.14",
+            "usd": "1.95",
+            "usd_etched": null,
+            "usd_foil": "2.98"
+        }
+    },
+    "160": {
+        "Card Name": "Branchblight Stalker",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "161": {
+        "Card Name": "Cankerbloom",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.26",
+            "tix": "0.01",
+            "usd": "0.18",
+            "usd_etched": null,
+            "usd_foil": "0.46"
+        }
+    },
+    "162": {
+        "Card Name": "Carnivorous Canopy",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.21"
+        }
+    },
+    "163": {
+        "Card Name": "Conduit of Worlds",
+        "Price": {
+            "eur": "1.59",
+            "eur_foil": "2.41",
+            "tix": "0.01",
+            "usd": "2.04",
+            "usd_etched": null,
+            "usd_foil": "3.84"
+        }
+    },
+    "164": {
+        "Card Name": "Contagious Vorrac",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.07",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "165": {
+        "Card Name": "Copper Longlegs",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "166": {
+        "Card Name": "Evolved Spinoderm",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.15",
+            "tix": "0.01",
+            "usd": "0.08",
+            "usd_etched": null,
+            "usd_foil": "0.16"
+        }
+    },
+    "167": {
+        "Card Name": "Evolving Adaptive",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.07",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "168": {
+        "Card Name": "Expand the Sphere",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.19",
+            "tix": "0.02",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.25"
+        }
+    },
+    "169": {
+        "Card Name": "Green Sun's Twilight",
+        "Price": {
+            "eur": "0.22",
+            "eur_foil": "0.46",
+            "tix": "0.01",
+            "usd": "0.42",
+            "usd_etched": null,
+            "usd_foil": "0.60"
+        }
+    },
+    "170": {
+        "Card Name": "Ichorspit Basilisk",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.08",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "171": {
+        "Card Name": "Incubation Sac",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "172": {
+        "Card Name": "Infectious Bite",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.18",
+            "tix": "0.01",
+            "usd": "0.20",
+            "usd_etched": null,
+            "usd_foil": "0.79"
+        }
+    },
+    "173": {
+        "Card Name": "Lattice-Blade Mantis",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "174": {
+        "Card Name": "Maze's Mantle",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "175": {
+        "Card Name": "Nissa, Ascended Animist",
+        "Price": {
+            "eur": "4.66",
+            "eur_foil": "7.00",
+            "tix": "0.78",
+            "usd": "4.58",
+            "usd_etched": null,
+            "usd_foil": "7.19"
+        }
+    },
+    "176": {
+        "Card Name": "Noxious Assault",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.03",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.20"
+        }
+    },
+    "177": {
+        "Card Name": "Oil-Gorger Troll",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.03",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "178": {
+        "Card Name": "Paladin of Predation",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "179": {
+        "Card Name": "Plague Nurse",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "180": {
+        "Card Name": "Predation Steward",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.02",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "181": {
+        "Card Name": "Rustvine Cultivator",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "182": {
+        "Card Name": "Ruthless Predation",
+        "Price": {
+            "eur": "0.19",
+            "eur_foil": "0.04",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "183": {
+        "Card Name": "Skyscythe Engulfer",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "184": {
+        "Card Name": "Sylvok Battle-Chair",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "185": {
+        "Card Name": "Thirsting Roots",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.35",
+            "tix": "0.01",
+            "usd": "0.12",
+            "usd_etched": null,
+            "usd_foil": "0.45"
+        }
+    },
+    "186": {
+        "Card Name": "Thrun, Breaker of Silence",
+        "Price": {
+            "eur": "0.53",
+            "eur_foil": "0.75",
+            "tix": "0.08",
+            "usd": "0.53",
+            "usd_etched": null,
+            "usd_foil": "0.76"
+        }
+    },
+    "187": {
+        "Card Name": "Titanic Growth",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "188": {
+        "Card Name": "Tyrranax Atrocity",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.16"
+        }
+    },
+    "189": {
+        "Card Name": "Tyrranax Rex",
+        "Price": {
+            "eur": "6.62",
+            "eur_foil": "8.31",
+            "tix": "1.49",
+            "usd": "5.68",
+            "usd_etched": null,
+            "usd_foil": "6.25"
+        }
+    },
+    "190": {
+        "Card Name": "Tyvar's Stand",
+        "Price": {
+            "eur": "2.21",
+            "eur_foil": "1.23",
+            "tix": "0.01",
+            "usd": "1.03",
+            "usd_etched": null,
+            "usd_foil": "2.55"
+        }
+    },
+    "191": {
+        "Card Name": "Unnatural Restoration",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.44",
+            "tix": "0.01",
+            "usd": "0.19",
+            "usd_etched": null,
+            "usd_foil": "1.27"
+        }
+    },
+    "192": {
+        "Card Name": "Venerated Rotpriest",
+        "Price": {
+            "eur": "6.21",
+            "eur_foil": "9.00",
+            "tix": "0.60",
+            "usd": "5.44",
+            "usd_etched": null,
+            "usd_foil": "5.83"
+        }
+    },
+    "193": {
+        "Card Name": "Venomous Brutalizer",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.19",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "194": {
+        "Card Name": "Viral Spawning",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.03",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "195": {
+        "Card Name": "Zopandrel, Hunger Dominus",
+        "Price": {
+            "eur": "3.17",
+            "eur_foil": "3.50",
+            "tix": "0.33",
+            "usd": "3.73",
+            "usd_etched": null,
+            "usd_foil": "6.83"
+        }
+    },
+    "196": {
+        "Card Name": "Atraxa, Grand Unifier",
+        "Price": {
+            "eur": "23.58",
+            "eur_foil": "32.90",
+            "tix": "80.23",
+            "usd": "19.94",
+            "usd_etched": null,
+            "usd_foil": "23.72"
+        }
+    },
+    "197": {
+        "Card Name": "Bladehold War-Whip",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.14",
+            "tix": "0.02",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.21"
+        }
+    },
+    "198": {
+        "Card Name": "Cephalopod Sentry",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.14",
+            "tix": "0.01",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "199": {
+        "Card Name": "Charforger",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "200": {
+        "Card Name": "Cinderslash Ravager",
+        "Price": {
+            "eur": "0.19",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "201": {
+        "Card Name": "Ezuri, Stalker of Spheres",
+        "Price": {
+            "eur": "0.17",
+            "eur_foil": "0.30",
+            "tix": "0.01",
+            "usd": "0.31",
+            "usd_etched": null,
+            "usd_foil": "0.54"
+        }
+    },
+    "202": {
+        "Card Name": "Glissa Sunslayer",
+        "Price": {
+            "eur": "1.04",
+            "eur_foil": "1.95",
+            "tix": "0.15",
+            "usd": "0.80",
+            "usd_etched": null,
+            "usd_foil": "1.33"
+        }
+    },
+    "203": {
+        "Card Name": "Jor Kadeen, First Goldwarden",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.17",
+            "tix": "0.01",
+            "usd": "0.13",
+            "usd_etched": null,
+            "usd_foil": "0.22"
+        }
+    },
+    "204": {
+        "Card Name": "Kaito, Dancing Shadow",
+        "Price": {
+            "eur": "0.56",
+            "eur_foil": "1.15",
+            "tix": "0.01",
+            "usd": "0.49",
+            "usd_etched": null,
+            "usd_foil": "0.55"
+        }
+    },
+    "205": {
+        "Card Name": "Kaya, Intangible Slayer",
+        "Price": {
+            "eur": "0.25",
+            "eur_foil": "0.69",
+            "tix": "0.01",
+            "usd": "0.34",
+            "usd_etched": null,
+            "usd_foil": "0.48"
+        }
+    },
+    "206": {
+        "Card Name": "Kethek, Crucible Goliath",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "0.46",
+            "tix": "0.01",
+            "usd": "0.14",
+            "usd_etched": null,
+            "usd_foil": "0.23"
+        }
+    },
+    "207": {
+        "Card Name": "Lukka, Bound to Ruin",
+        "Price": {
+            "eur": "1.51",
+            "eur_foil": "2.61",
+            "tix": "0.55",
+            "usd": "1.05",
+            "usd_etched": null,
+            "usd_foil": "2.24"
+        }
+    },
+    "208": {
+        "Card Name": "Malcator, Purity Overseer",
+        "Price": {
+            "eur": "0.19",
+            "eur_foil": "0.36",
+            "tix": "0.02",
+            "usd": "0.15",
+            "usd_etched": null,
+            "usd_foil": "0.28"
+        }
+    },
+    "209": {
+        "Card Name": "Melira, the Living Cure",
+        "Price": {
+            "eur": "0.26",
+            "eur_foil": "0.63",
+            "tix": "0.02",
+            "usd": "0.24",
+            "usd_etched": null,
+            "usd_foil": "0.39"
+        }
+    },
+    "210": {
+        "Card Name": "Migloz, Maze Crusher",
+        "Price": {
+            "eur": "0.41",
+            "eur_foil": "0.62",
+            "tix": "0.20",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.25"
+        }
+    },
+    "211": {
+        "Card Name": "Nahiri, the Unforgiving",
+        "Price": {
+            "eur": "2.43",
+            "eur_foil": "6.00",
+            "tix": "1.19",
+            "usd": "0.79",
+            "usd_etched": null,
+            "usd_foil": "1.84"
+        }
+    },
+    "212": {
+        "Card Name": "Necrogen Rotpriest",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.19",
+            "tix": "0.02",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.18"
+        }
+    },
+    "213": {
+        "Card Name": "Ovika, Enigma Goliath",
+        "Price": {
+            "eur": "0.14",
+            "eur_foil": "0.22",
+            "tix": "0.02",
+            "usd": "0.19",
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "214": {
+        "Card Name": "Ria Ivor, Bane of Bladehold",
+        "Price": {
+            "eur": "0.14",
+            "eur_foil": "0.10",
+            "tix": "0.01",
+            "usd": "0.17",
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "215": {
+        "Card Name": "Serum-Core Chimera",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.02",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "216": {
+        "Card Name": "Slaughter Singer",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.29",
+            "tix": "0.01",
+            "usd": "0.09",
+            "usd_etched": null,
+            "usd_foil": "0.24"
+        }
+    },
+    "217": {
+        "Card Name": "Tainted Observer",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.15",
+            "tix": "0.01",
+            "usd": "0.16",
+            "usd_etched": null,
+            "usd_foil": "0.41"
+        }
+    },
+    "218": {
+        "Card Name": "Tyvar, Jubilant Brawler",
+        "Price": {
+            "eur": "3.23",
+            "eur_foil": "4.92",
+            "tix": "0.59",
+            "usd": "1.71",
+            "usd_etched": null,
+            "usd_foil": "2.90"
+        }
+    },
+    "219": {
+        "Card Name": "Venser, Corpse Puppet",
+        "Price": {
+            "eur": "0.14",
+            "eur_foil": "0.16",
+            "tix": "0.01",
+            "usd": "0.18",
+            "usd_etched": null,
+            "usd_foil": "0.25"
+        }
+    },
+    "220": {
+        "Card Name": "Vivisection Evangelist",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "221": {
+        "Card Name": "Voidwing Hybrid",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.15",
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "222": {
+        "Card Name": "Argentum Masticore",
+        "Price": {
+            "eur": "0.17",
+            "eur_foil": "0.16",
+            "tix": "0.01",
+            "usd": "0.15",
+            "usd_etched": null,
+            "usd_foil": "0.27"
+        }
+    },
+    "223": {
+        "Card Name": "Atraxa's Skitterfang",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.10",
+            "tix": "0.02",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.18"
+        }
+    },
+    "224": {
+        "Card Name": "Basilica Skullbomb",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "0.07",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "225": {
+        "Card Name": "Dross Skullbomb",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.14",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "226": {
+        "Card Name": "Dune Mover",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.06",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "227": {
+        "Card Name": "The Filigree Sylex",
+        "Price": {
+            "eur": "0.14",
+            "eur_foil": "0.28",
+            "tix": "0.06",
+            "usd": "0.16",
+            "usd_etched": null,
+            "usd_foil": "0.27"
+        }
+    },
+    "228": {
+        "Card Name": "Furnace Skullbomb",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.08",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "229": {
+        "Card Name": "Graaz, Unstoppable Juggernaut",
+        "Price": {
+            "eur": "0.23",
+            "eur_foil": "0.25",
+            "tix": "0.01",
+            "usd": "0.29",
+            "usd_etched": null,
+            "usd_foil": "0.27"
+        }
+    },
+    "230": {
+        "Card Name": "Ichorplate Golem",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.15",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "231": {
+        "Card Name": "Maze Skullbomb",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.08",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "232": {
+        "Card Name": "Mirran Safehouse",
+        "Price": {
+            "eur": "0.25",
+            "eur_foil": "0.60",
+            "tix": "0.02",
+            "usd": "0.24",
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "233": {
+        "Card Name": "Monument to Perfection",
+        "Price": {
+            "eur": "0.25",
+            "eur_foil": "0.25",
+            "tix": "0.02",
+            "usd": "0.16",
+            "usd_etched": null,
+            "usd_foil": "0.24"
+        }
+    },
+    "234": {
+        "Card Name": "Myr Convert",
+        "Price": {
+            "eur": "0.14",
+            "eur_foil": "0.09",
+            "tix": "0.01",
+            "usd": "0.10",
+            "usd_etched": null,
+            "usd_foil": "0.27"
+        }
+    },
+    "235": {
+        "Card Name": "Myr Custodian",
+        "Price": {
+            "eur": "0.49",
+            "eur_foil": "0.20",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "236": {
+        "Card Name": "Myr Kinsmith",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.06",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.24"
+        }
+    },
+    "237": {
+        "Card Name": "Phyrexian Atlas",
+        "Price": {
+            "eur": "0.04",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.08",
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "238": {
+        "Card Name": "Prophetic Prism",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.05",
+            "tix": "0.02",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "239": {
+        "Card Name": "Prosthetic Injector",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.20",
+            "tix": "0.01",
+            "usd": "0.07",
+            "usd_etched": null,
+            "usd_foil": "0.16"
+        }
+    },
+    "240": {
+        "Card Name": "Ribskiff",
+        "Price": {
+            "eur": "0.16",
+            "eur_foil": "0.11",
+            "tix": "0.01",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "241": {
+        "Card Name": "Soulless Jailer",
+        "Price": {
+            "eur": "0.31",
+            "eur_foil": "0.98",
+            "tix": "0.18",
+            "usd": "0.37",
+            "usd_etched": null,
+            "usd_foil": "0.53"
+        }
+    },
+    "242": {
+        "Card Name": "Staff of Compleation",
+        "Price": {
+            "eur": "3.29",
+            "eur_foil": "3.88",
+            "tix": "1.04",
+            "usd": "4.70",
+            "usd_etched": null,
+            "usd_foil": "8.39"
+        }
+    },
+    "243": {
+        "Card Name": "Surgical Skullbomb",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.06",
+            "tix": "0.01",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "244": {
+        "Card Name": "Sword of Forge and Frontier",
+        "Price": {
+            "eur": "13.51",
+            "eur_foil": "18.48",
+            "tix": "3.72",
+            "usd": "16.72",
+            "usd_etched": null,
+            "usd_foil": "20.30"
+        }
+    },
+    "245": {
+        "Card Name": "Tablet of Compleation",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.17",
+            "tix": "0.01",
+            "usd": "0.14",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "246": {
+        "Card Name": "Zenith Chronicler",
+        "Price": {
+            "eur": "0.16",
+            "eur_foil": "0.34",
+            "tix": "0.02",
+            "usd": "0.17",
+            "usd_etched": null,
+            "usd_foil": "0.28"
+        }
+    },
+    "247": {
+        "Card Name": "The Autonomous Furnace",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.10",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.16"
+        }
+    },
+    "248": {
+        "Card Name": "Blackcleave Cliffs",
+        "Price": {
+            "eur": "4.59",
+            "eur_foil": "5.12",
+            "tix": "0.45",
+            "usd": "2.68",
+            "usd_etched": null,
+            "usd_foil": "2.85"
+        }
+    },
+    "249": {
+        "Card Name": "Copperline Gorge",
+        "Price": {
+            "eur": "2.43",
+            "eur_foil": "3.05",
+            "tix": "0.41",
+            "usd": "1.51",
+            "usd_etched": null,
+            "usd_foil": "2.03"
+        }
+    },
+    "250": {
+        "Card Name": "Darkslick Shores",
+        "Price": {
+            "eur": "3.40",
+            "eur_foil": "5.89",
+            "tix": "0.55",
+            "usd": "2.90",
+            "usd_etched": null,
+            "usd_foil": "2.72"
+        }
+    },
+    "251": {
+        "Card Name": "The Dross Pits",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.28",
+            "tix": "0.01",
+            "usd": "0.06",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "252": {
+        "Card Name": "The Fair Basilica",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.07",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "253": {
+        "Card Name": "The Hunter Maze",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.11",
+            "tix": "0.01",
+            "usd": "0.05",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "254": {
+        "Card Name": "Mirrex",
+        "Price": {
+            "eur": "0.59",
+            "eur_foil": "0.98",
+            "tix": "0.34",
+            "usd": "1.01",
+            "usd_etched": null,
+            "usd_foil": "1.73"
+        }
+    },
+    "255": {
+        "Card Name": "The Monumental Facade",
+        "Price": {
+            "eur": "0.20",
+            "eur_foil": "0.14",
+            "tix": "0.01",
+            "usd": "0.17",
+            "usd_etched": null,
+            "usd_foil": "0.26"
+        }
+    },
+    "256": {
+        "Card Name": "The Mycosynth Gardens",
+        "Price": {
+            "eur": "5.20",
+            "eur_foil": "7.81",
+            "tix": "1.65",
+            "usd": "3.69",
+            "usd_etched": null,
+            "usd_foil": "5.81"
+        }
+    },
+    "257": {
+        "Card Name": "Razorverge Thicket",
+        "Price": {
+            "eur": "2.05",
+            "eur_foil": "2.71",
+            "tix": "0.21",
+            "usd": "1.94",
+            "usd_etched": null,
+            "usd_foil": "2.11"
+        }
+    },
+    "258": {
+        "Card Name": "Seachrome Coast",
+        "Price": {
+            "eur": "3.41",
+            "eur_foil": "3.41",
+            "tix": "0.44",
+            "usd": "2.18",
+            "usd_etched": null,
+            "usd_foil": "2.53"
+        }
+    },
+    "259": {
+        "Card Name": "The Seedcore",
+        "Price": {
+            "eur": "0.45",
+            "eur_foil": "0.64",
+            "tix": "0.12",
+            "usd": "0.37",
+            "usd_etched": null,
+            "usd_foil": "0.44"
+        }
+    },
+    "260": {
+        "Card Name": "The Surgical Bay",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.07",
+            "tix": "0.01",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "261": {
+        "Card Name": "Terramorphic Expanse",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.13",
+            "usd_etched": null,
+            "usd_foil": "0.25"
+        }
+    },
+    "262": {
+        "Card Name": "Plains",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.19",
+            "tix": "0.01",
+            "usd": "0.13",
+            "usd_etched": null,
+            "usd_foil": "0.23"
+        }
+    },
+    "263": {
+        "Card Name": "Island",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.17",
+            "tix": "0.01",
+            "usd": "0.15",
+            "usd_etched": null,
+            "usd_foil": "0.17"
+        }
+    },
+    "264": {
+        "Card Name": "Swamp",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.16",
+            "tix": "0.01",
+            "usd": "0.14",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "265": {
+        "Card Name": "Mountain",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "0.18",
+            "tix": "0.01",
+            "usd": "0.12",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "266": {
+        "Card Name": "Forest",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.16",
+            "tix": "0.02",
+            "usd": "0.17",
+            "usd_etched": null,
+            "usd_foil": "0.16"
+        }
+    },
+    "267": {
+        "Card Name": "Plains",
+        "Price": {
+            "eur": "0.40",
+            "eur_foil": "0.46",
+            "tix": "0.01",
+            "usd": "0.52",
+            "usd_etched": null,
+            "usd_foil": "0.48"
+        }
+    },
+    "268": {
+        "Card Name": "Island",
+        "Price": {
+            "eur": "0.23",
+            "eur_foil": "0.44",
+            "tix": "0.01",
+            "usd": "0.53",
+            "usd_etched": null,
+            "usd_foil": "0.49"
+        }
+    },
+    "269": {
+        "Card Name": "Swamp",
+        "Price": {
+            "eur": "0.61",
+            "eur_foil": "0.57",
+            "tix": "0.01",
+            "usd": "1.23",
+            "usd_etched": null,
+            "usd_foil": "0.87"
+        }
+    },
+    "270": {
+        "Card Name": "Mountain",
+        "Price": {
+            "eur": "0.42",
+            "eur_foil": "0.40",
+            "tix": "0.01",
+            "usd": "0.40",
+            "usd_etched": null,
+            "usd_foil": "0.44"
+        }
+    },
+    "271": {
+        "Card Name": "Forest",
+        "Price": {
+            "eur": "0.40",
+            "eur_foil": "0.41",
+            "tix": "0.01",
+            "usd": "0.63",
+            "usd_etched": null,
+            "usd_foil": "0.50"
+        }
+    },
+    "272": {
+        "Card Name": "Plains",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.13",
+            "tix": "0.01",
+            "usd": "0.09",
+            "usd_etched": null,
+            "usd_foil": "0.20"
+        }
+    },
+    "273": {
+        "Card Name": "Island",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.12",
+            "tix": "0.01",
+            "usd": "0.17",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "274": {
+        "Card Name": "Swamp",
+        "Price": {
+            "eur": "0.09",
+            "eur_foil": "0.12",
+            "tix": "0.02",
+            "usd": "0.11",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "275": {
+        "Card Name": "Mountain",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.06",
+            "tix": "0.02",
+            "usd": "0.08",
+            "usd_etched": null,
+            "usd_foil": "0.10"
+        }
+    },
+    "276": {
+        "Card Name": "Forest",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.14",
+            "tix": "0.02",
+            "usd": "0.11",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "277": {
+        "Card Name": "Ossification",
+        "Price": {
+            "eur": "0.32",
+            "eur_foil": "0.57",
+            "tix": null,
+            "usd": "1.80",
+            "usd_etched": null,
+            "usd_foil": "4.92"
+        }
+    },
+    "278": {
+        "Card Name": "Experimental Augury",
+        "Price": {
+            "eur": "0.16",
+            "eur_foil": "0.78",
+            "tix": null,
+            "usd": "0.89",
+            "usd_etched": null,
+            "usd_foil": "3.64"
+        }
+    },
+    "279": {
+        "Card Name": "Sheoldred's Edict",
+        "Price": {
+            "eur": "1.70",
+            "eur_foil": "3.50",
+            "tix": null,
+            "usd": "2.04",
+            "usd_etched": null,
+            "usd_foil": "7.88"
+        }
+    },
+    "280": {
+        "Card Name": "Bladehold War-Whip",
+        "Price": {
+            "eur": "0.15",
+            "eur_foil": "0.50",
+            "tix": null,
+            "usd": "0.68",
+            "usd_etched": null,
+            "usd_foil": "1.50"
+        }
+    },
+    "281": {
+        "Card Name": "Slaughter Singer",
+        "Price": {
+            "eur": "0.44",
+            "eur_foil": "0.30",
+            "tix": null,
+            "usd": "0.49",
+            "usd_etched": null,
+            "usd_foil": "1.23"
+        }
+    },
+    "282": {
+        "Card Name": "Karumonix, the Rat King",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.24",
+            "tix": "0.41",
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.61"
+        }
+    },
+    "283": {
+        "Card Name": "Phyrexian Arena",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.78",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "1.80"
+        }
+    },
+    "284": {
+        "Card Name": "Green Sun's Twilight",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.49",
+            "tix": "0.17",
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.59"
+        }
+    },
+    "285": {
+        "Card Name": "Bladed Ambassador",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.25",
+            "tix": "0.02",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "286": {
+        "Card Name": "Sinew Dancer",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.53",
+            "tix": "0.04",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "287": {
+        "Card Name": "Quicksilver Fisher",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.05",
+            "tix": "0.02",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.02"
+        }
+    },
+    "288": {
+        "Card Name": "Thrummingbird",
+        "Price": {
+            "eur": "0.03",
+            "eur_foil": "0.03",
+            "tix": "0.06",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "289": {
+        "Card Name": "Blightbelly Rat",
+        "Price": {
+            "eur": "0.05",
+            "eur_foil": "0.50",
+            "tix": "0.09",
+            "usd": "0.01",
+            "usd_etched": null,
+            "usd_foil": "0.08"
+        }
+    },
+    "290": {
+        "Card Name": "Bonepicker Skirge",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.02",
+            "tix": "0.03",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "291": {
+        "Card Name": "Furnace Punisher",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.17",
+            "tix": "0.04",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "292": {
+        "Card Name": "Sawblade Scamp",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.13",
+            "tix": "0.07",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.04"
+        }
+    },
+    "293": {
+        "Card Name": "Urabrask's Anointer",
+        "Price": {
+            "eur": "0.16",
+            "eur_foil": "0.03",
+            "tix": "0.03",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "294": {
+        "Card Name": "Cankerbloom",
+        "Price": {
+            "eur": "0.16",
+            "eur_foil": "0.47",
+            "tix": "0.16",
+            "usd": "0.10",
+            "usd_etched": null,
+            "usd_foil": "0.27"
+        }
+    },
+    "295": {
+        "Card Name": "Rustvine Cultivator",
+        "Price": {
+            "eur": "0.02",
+            "eur_foil": "0.25",
+            "tix": "0.05",
+            "usd": "0.04",
+            "usd_etched": null,
+            "usd_foil": "0.03"
+        }
+    },
+    "296": {
+        "Card Name": "Necrogen Rotpriest",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.02",
+            "tix": "0.06",
+            "usd": "0.02",
+            "usd_etched": null,
+            "usd_foil": "0.06"
+        }
+    },
+    "297": {
+        "Card Name": "Myr Convert",
+        "Price": {
+            "eur": "0.06",
+            "eur_foil": "0.05",
+            "tix": "0.04",
+            "usd": "0.03",
+            "usd_etched": null,
+            "usd_foil": "0.15"
+        }
+    },
+    "298": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": "33.00",
+            "eur_foil": "36.95",
+            "tix": "10.54",
+            "usd": "40.67",
+            "usd_etched": null,
+            "usd_foil": "57.00"
+        }
+    },
+    "299": {
+        "Card Name": "Mondrak, Glory Dominus",
+        "Price": {
+            "eur": "20.59",
+            "eur_foil": "27.99",
+            "tix": "0.68",
+            "usd": "26.14",
+            "usd_etched": null,
+            "usd_foil": "29.57"
+        }
+    },
+    "300": {
+        "Card Name": "Phyrexian Vindicator",
+        "Price": {
+            "eur": "5.03",
+            "eur_foil": "5.81",
+            "tix": "0.29",
+            "usd": "5.18",
+            "usd_etched": null,
+            "usd_foil": "6.51"
+        }
+    },
+    "301": {
+        "Card Name": "Skrelv, Defector Mite",
+        "Price": {
+            "eur": "5.91",
+            "eur_foil": "7.75",
+            "tix": "0.84",
+            "usd": "4.08",
+            "usd_etched": null,
+            "usd_foil": "4.41"
+        }
+    },
+    "302": {
+        "Card Name": "Tekuthal, Inquiry Dominus",
+        "Price": {
+            "eur": "4.58",
+            "eur_foil": "5.98",
+            "tix": "0.27",
+            "usd": "5.07",
+            "usd_etched": null,
+            "usd_foil": "6.55"
+        }
+    },
+    "303": {
+        "Card Name": "Unctus, Grand Metatect",
+        "Price": {
+            "eur": "0.35",
+            "eur_foil": "0.63",
+            "tix": "0.06",
+            "usd": "0.36",
+            "usd_etched": null,
+            "usd_foil": "0.42"
+        }
+    },
+    "304": {
+        "Card Name": "Archfiend of the Dross",
+        "Price": {
+            "eur": "0.28",
+            "eur_foil": "0.54",
+            "tix": "0.01",
+            "usd": "0.24",
+            "usd_etched": null,
+            "usd_foil": "0.37"
+        }
+    },
+    "305": {
+        "Card Name": "Drivnod, Carnage Dominus",
+        "Price": {
+            "eur": "4.39",
+            "eur_foil": "5.20",
+            "tix": "0.27",
+            "usd": "4.91",
+            "usd_etched": null,
+            "usd_foil": "6.80"
+        }
+    },
+    "306": {
+        "Card Name": "Geth, Thane of Contracts",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.23",
+            "tix": "0.02",
+            "usd": "0.13",
+            "usd_etched": null,
+            "usd_foil": "0.23"
+        }
+    },
+    "307": {
+        "Card Name": "Karumonix, the Rat King",
+        "Price": {
+            "eur": "0.30",
+            "eur_foil": "0.82",
+            "tix": "0.01",
+            "usd": "0.34",
+            "usd_etched": null,
+            "usd_foil": "0.48"
+        }
+    },
+    "308": {
+        "Card Name": "Phyrexian Obliterator",
+        "Price": {
+            "eur": "7.34",
+            "eur_foil": "12.18",
+            "tix": "0.26",
+            "usd": "6.90",
+            "usd_etched": null,
+            "usd_foil": "10.41"
+        }
+    },
+    "309": {
+        "Card Name": "Vraan, Executioner Thane",
+        "Price": {
+            "eur": "0.15",
+            "eur_foil": "0.68",
+            "tix": "0.01",
+            "usd": "0.31",
+            "usd_etched": null,
+            "usd_foil": "0.35"
+        }
+    },
+    "310": {
+        "Card Name": "Capricious Hellraiser",
+        "Price": {
+            "eur": "2.57",
+            "eur_foil": "3.69",
+            "tix": "1.56",
+            "usd": "1.08",
+            "usd_etched": null,
+            "usd_foil": "2.65"
+        }
+    },
+    "311": {
+        "Card Name": "Slobad, Iron Goblin",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.29",
+            "tix": "0.01",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.27"
+        }
+    },
+    "312": {
+        "Card Name": "Solphim, Mayhem Dominus",
+        "Price": {
+            "eur": "5.92",
+            "eur_foil": "6.88",
+            "tix": "0.29",
+            "usd": "6.24",
+            "usd_etched": null,
+            "usd_foil": "6.97"
+        }
+    },
+    "313": {
+        "Card Name": "Evolved Spinoderm",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.22",
+            "tix": "0.01",
+            "usd": "0.12",
+            "usd_etched": null,
+            "usd_foil": "0.14"
+        }
+    },
+    "314": {
+        "Card Name": "Tyrranax Rex",
+        "Price": {
+            "eur": "6.33",
+            "eur_foil": "8.46",
+            "tix": "0.88",
+            "usd": "5.41",
+            "usd_etched": null,
+            "usd_foil": "5.72"
+        }
+    },
+    "315": {
+        "Card Name": "Zopandrel, Hunger Dominus",
+        "Price": {
+            "eur": "3.66",
+            "eur_foil": "5.66",
+            "tix": "0.32",
+            "usd": "4.26",
+            "usd_etched": null,
+            "usd_foil": "5.09"
+        }
+    },
+    "316": {
+        "Card Name": "Atraxa, Grand Unifier",
+        "Price": {
+            "eur": "25.77",
+            "eur_foil": "39.95",
+            "tix": "65.53",
+            "usd": "25.52",
+            "usd_etched": null,
+            "usd_foil": "35.34"
+        }
+    },
+    "317": {
+        "Card Name": "Ezuri, Stalker of Spheres",
+        "Price": {
+            "eur": "0.34",
+            "eur_foil": "0.39",
+            "tix": "0.01",
+            "usd": "0.32",
+            "usd_etched": null,
+            "usd_foil": "0.54"
+        }
+    },
+    "318": {
+        "Card Name": "Glissa Sunslayer",
+        "Price": {
+            "eur": "1.84",
+            "eur_foil": "2.51",
+            "tix": "0.16",
+            "usd": "1.18",
+            "usd_etched": null,
+            "usd_foil": "1.82"
+        }
+    },
+    "319": {
+        "Card Name": "Kethek, Crucible Goliath",
+        "Price": {
+            "eur": "0.10",
+            "eur_foil": "0.28",
+            "tix": "0.01",
+            "usd": "0.15",
+            "usd_etched": null,
+            "usd_foil": "0.19"
+        }
+    },
+    "320": {
+        "Card Name": "Malcator, Purity Overseer",
+        "Price": {
+            "eur": "0.17",
+            "eur_foil": "0.37",
+            "tix": "0.01",
+            "usd": "0.16",
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "321": {
+        "Card Name": "Migloz, Maze Crusher",
+        "Price": {
+            "eur": "0.42",
+            "eur_foil": "0.86",
+            "tix": "0.25",
+            "usd": "0.27",
+            "usd_etched": null,
+            "usd_foil": "0.49"
+        }
+    },
+    "322": {
+        "Card Name": "Ovika, Enigma Goliath",
+        "Price": {
+            "eur": "0.11",
+            "eur_foil": "0.31",
+            "tix": "0.01",
+            "usd": "0.24",
+            "usd_etched": null,
+            "usd_foil": "0.33"
+        }
+    },
+    "323": {
+        "Card Name": "Ria Ivor, Bane of Bladehold",
+        "Price": {
+            "eur": "0.27",
+            "eur_foil": "0.32",
+            "tix": "0.01",
+            "usd": "0.22",
+            "usd_etched": null,
+            "usd_foil": "0.37"
+        }
+    },
+    "324": {
+        "Card Name": "Venser, Corpse Puppet",
+        "Price": {
+            "eur": "0.30",
+            "eur_foil": "0.50",
+            "tix": "0.01",
+            "usd": "0.22",
+            "usd_etched": null,
+            "usd_foil": "0.33"
+        }
+    },
+    "325": {
+        "Card Name": "Jace, the Perfected Mind",
+        "Price": {
+            "eur": "7.44",
+            "eur_foil": "12.00",
+            "tix": "3.67",
+            "usd": "4.88",
+            "usd_etched": null,
+            "usd_foil": "8.06"
+        }
+    },
+    "326": {
+        "Card Name": "Vraska, Betrayal's Sting",
+        "Price": {
+            "eur": "8.55",
+            "eur_foil": "13.50",
+            "tix": "1.16",
+            "usd": "10.02",
+            "usd_etched": null,
+            "usd_foil": "15.28"
+        }
+    },
+    "327": {
+        "Card Name": "Nissa, Ascended Animist",
+        "Price": {
+            "eur": "5.42",
+            "eur_foil": "8.07",
+            "tix": "0.82",
+            "usd": "4.31",
+            "usd_etched": null,
+            "usd_foil": "6.17"
+        }
+    },
+    "328": {
+        "Card Name": "Lukka, Bound to Ruin",
+        "Price": {
+            "eur": "1.97",
+            "eur_foil": "4.50",
+            "tix": "0.34",
+            "usd": "1.57",
+            "usd_etched": null,
+            "usd_foil": "3.18"
+        }
+    },
+    "329": {
+        "Card Name": "Nahiri, the Unforgiving",
+        "Price": {
+            "eur": "3.00",
+            "eur_foil": "5.87",
+            "tix": "0.70",
+            "usd": "1.46",
+            "usd_etched": null,
+            "usd_foil": "3.65"
+        }
+    },
+    "330": {
+        "Card Name": "Kemba, Kha Enduring",
+        "Price": {
+            "eur": "0.59",
+            "eur_foil": "0.77",
+            "tix": "0.02",
+            "usd": "0.28",
+            "usd_etched": null,
+            "usd_foil": "0.43"
+        }
+    },
+    "331": {
+        "Card Name": "Thrun, Breaker of Silence",
+        "Price": {
+            "eur": "0.49",
+            "eur_foil": "1.04",
+            "tix": "0.05",
+            "usd": "0.63",
+            "usd_etched": null,
+            "usd_foil": "0.76"
+        }
+    },
+    "332": {
+        "Card Name": "Jor Kadeen, First Goldwarden",
+        "Price": {
+            "eur": "0.32",
+            "eur_foil": "0.47",
+            "tix": "0.01",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.30"
+        }
+    },
+    "333": {
+        "Card Name": "Melira, the Living Cure",
+        "Price": {
+            "eur": "0.36",
+            "eur_foil": "0.77",
+            "tix": "0.02",
+            "usd": "0.37",
+            "usd_etched": null,
+            "usd_foil": "0.65"
+        }
+    },
+    "334": {
+        "Card Name": "Graaz, Unstoppable Juggernaut",
+        "Price": {
+            "eur": "0.26",
+            "eur_foil": "0.87",
+            "tix": "0.01",
+            "usd": "0.39",
+            "usd_etched": null,
+            "usd_foil": "0.53"
+        }
+    },
+    "335": {
+        "Card Name": "The Eternal Wanderer",
+        "Price": {
+            "eur": "2.69",
+            "eur_foil": "3.99",
+            "tix": "0.06",
+            "usd": "2.30",
+            "usd_etched": null,
+            "usd_foil": "3.21"
+        }
+    },
+    "336": {
+        "Card Name": "Jace, the Perfected Mind",
+        "Price": {
+            "eur": "10.33",
+            "eur_foil": "15.50",
+            "tix": "4.25",
+            "usd": "8.06",
+            "usd_etched": null,
+            "usd_foil": "12.44"
+        }
+    },
+    "337": {
+        "Card Name": "Vraska, Betrayal's Sting",
+        "Price": {
+            "eur": "15.00",
+            "eur_foil": "23.33",
+            "tix": "1.50",
+            "usd": "20.69",
+            "usd_etched": null,
+            "usd_foil": "34.43"
+        }
+    },
+    "338": {
+        "Card Name": "Koth, Fire of Resistance",
+        "Price": {
+            "eur": "0.55",
+            "eur_foil": "1.88",
+            "tix": "0.12",
+            "usd": "0.49",
+            "usd_etched": null,
+            "usd_foil": "0.98"
+        }
+    },
+    "339": {
+        "Card Name": "Nissa, Ascended Animist",
+        "Price": {
+            "eur": "9.00",
+            "eur_foil": "15.19",
+            "tix": "0.90",
+            "usd": "9.01",
+            "usd_etched": null,
+            "usd_foil": "13.72"
+        }
+    },
+    "340": {
+        "Card Name": "Kaito, Dancing Shadow",
+        "Price": {
+            "eur": "0.77",
+            "eur_foil": "1.58",
+            "tix": "0.01",
+            "usd": "0.61",
+            "usd_etched": null,
+            "usd_foil": "1.01"
+        }
+    },
+    "341": {
+        "Card Name": "Kaya, Intangible Slayer",
+        "Price": {
+            "eur": "0.57",
+            "eur_foil": "0.78",
+            "tix": "0.01",
+            "usd": "0.44",
+            "usd_etched": null,
+            "usd_foil": "0.65"
+        }
+    },
+    "342": {
+        "Card Name": "Lukka, Bound to Ruin",
+        "Price": {
+            "eur": "2.51",
+            "eur_foil": "3.75",
+            "tix": "0.61",
+            "usd": "2.33",
+            "usd_etched": null,
+            "usd_foil": "3.02"
+        }
+    },
+    "343": {
+        "Card Name": "Nahiri, the Unforgiving",
+        "Price": {
+            "eur": "5.45",
+            "eur_foil": "6.66",
+            "tix": "1.04",
+            "usd": "3.80",
+            "usd_etched": null,
+            "usd_foil": "6.12"
+        }
+    },
+    "344": {
+        "Card Name": "Tyvar, Jubilant Brawler",
+        "Price": {
+            "eur": "4.44",
+            "eur_foil": "4.34",
+            "tix": "0.53",
+            "usd": "2.17",
+            "usd_etched": null,
+            "usd_foil": "3.33"
+        }
+    },
+    "345": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": null,
+            "eur_foil": "60.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "88.74"
+        }
+    },
+    "346": {
+        "Card Name": "Mondrak, Glory Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "35.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "47.64"
+        }
+    },
+    "347": {
+        "Card Name": "Phyrexian Vindicator",
+        "Price": {
+            "eur": null,
+            "eur_foil": "10.95",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "11.86"
+        }
+    },
+    "348": {
+        "Card Name": "Ichormoon Gauntlet",
+        "Price": {
+            "eur": null,
+            "eur_foil": "16.45",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "30.04"
+        }
+    },
+    "349": {
+        "Card Name": "Tekuthal, Inquiry Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "9.25",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "13.55"
+        }
+    },
+    "350": {
+        "Card Name": "Drivnod, Carnage Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "10.27",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "13.08"
+        }
+    },
+    "351": {
+        "Card Name": "Phyrexian Obliterator",
+        "Price": {
+            "eur": null,
+            "eur_foil": "21.51",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "27.87"
+        }
+    },
+    "352": {
+        "Card Name": "All Will Be One",
+        "Price": {
+            "eur": null,
+            "eur_foil": "11.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "15.95"
+        }
+    },
+    "353": {
+        "Card Name": "Capricious Hellraiser",
+        "Price": {
+            "eur": null,
+            "eur_foil": "6.15",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "6.08"
+        }
+    },
+    "354": {
+        "Card Name": "Solphim, Mayhem Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "9.92",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "15.90"
+        }
+    },
+    "355": {
+        "Card Name": "Tyrranax Rex",
+        "Price": {
+            "eur": null,
+            "eur_foil": "12.82",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "11.75"
+        }
+    },
+    "356": {
+        "Card Name": "Zopandrel, Hunger Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "9.20",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "11.22"
+        }
+    },
+    "357": {
+        "Card Name": "Atraxa, Grand Unifier",
+        "Price": {
+            "eur": null,
+            "eur_foil": "59.17",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "66.27"
+        }
+    },
+    "358": {
+        "Card Name": "Staff of Compleation",
+        "Price": {
+            "eur": null,
+            "eur_foil": "8.88",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "15.69"
+        }
+    },
+    "359": {
+        "Card Name": "Sword of Forge and Frontier",
+        "Price": {
+            "eur": null,
+            "eur_foil": "24.63",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "37.73"
+        }
+    },
+    "360": {
+        "Card Name": "Jace, the Perfected Mind",
+        "Price": {
+            "eur": null,
+            "eur_foil": "14.11",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "17.90"
+        }
+    },
+    "361": {
+        "Card Name": "Vraska, Betrayal's Sting",
+        "Price": {
+            "eur": null,
+            "eur_foil": "18.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "21.11"
+        }
+    },
+    "362": {
+        "Card Name": "Nissa, Ascended Animist",
+        "Price": {
+            "eur": null,
+            "eur_foil": "10.88",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "12.34"
+        }
+    },
+    "363": {
+        "Card Name": "Lukka, Bound to Ruin",
+        "Price": {
+            "eur": null,
+            "eur_foil": "6.23",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "5.45"
+        }
+    },
+    "364": {
+        "Card Name": "Nahiri, the Unforgiving",
+        "Price": {
+            "eur": null,
+            "eur_foil": "8.05",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "7.99"
+        }
+    },
+    "365": {
+        "Card Name": "Plains",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.54",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "3.56"
+        }
+    },
+    "366": {
+        "Card Name": "Island",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.59",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "3.47"
+        }
+    },
+    "367": {
+        "Card Name": "Swamp",
+        "Price": {
+            "eur": null,
+            "eur_foil": "4.18",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "5.65"
+        }
+    },
+    "368": {
+        "Card Name": "Mountain",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.26",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.88"
+        }
+    },
+    "369": {
+        "Card Name": "Forest",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.54",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "3.14"
+        }
+    },
+    "370": {
+        "Card Name": "Blackcleave Cliffs",
+        "Price": {
+            "eur": "5.17",
+            "eur_foil": "6.48",
+            "tix": "0.52",
+            "usd": "4.31",
+            "usd_etched": null,
+            "usd_foil": "5.67"
+        }
+    },
+    "371": {
+        "Card Name": "Copperline Gorge",
+        "Price": {
+            "eur": "3.25",
+            "eur_foil": "3.76",
+            "tix": "0.34",
+            "usd": "1.91",
+            "usd_etched": null,
+            "usd_foil": "3.26"
+        }
+    },
+    "372": {
+        "Card Name": "Darkslick Shores",
+        "Price": {
+            "eur": "2.87",
+            "eur_foil": "5.27",
+            "tix": "0.65",
+            "usd": "2.83",
+            "usd_etched": null,
+            "usd_foil": "4.91"
+        }
+    },
+    "373": {
+        "Card Name": "Razorverge Thicket",
+        "Price": {
+            "eur": "2.39",
+            "eur_foil": "3.60",
+            "tix": "0.33",
+            "usd": "2.35",
+            "usd_etched": null,
+            "usd_foil": "3.45"
+        }
+    },
+    "374": {
+        "Card Name": "Seachrome Coast",
+        "Price": {
+            "eur": "2.93",
+            "eur_foil": "6.55",
+            "tix": "0.63",
+            "usd": "2.94",
+            "usd_etched": null,
+            "usd_foil": "3.57"
+        }
+    },
+    "375": {
+        "Card Name": "Norn's Wellspring",
+        "Price": {
+            "eur": "0.17",
+            "eur_foil": "1.00",
+            "tix": "0.13",
+            "usd": "0.33",
+            "usd_etched": null,
+            "usd_foil": "0.43"
+        }
+    },
+    "376": {
+        "Card Name": "Skrelv's Hive",
+        "Price": {
+            "eur": "5.82",
+            "eur_foil": "8.17",
+            "tix": "1.50",
+            "usd": "3.54",
+            "usd_etched": null,
+            "usd_foil": "5.65"
+        }
+    },
+    "377": {
+        "Card Name": "White Sun's Twilight",
+        "Price": {
+            "eur": "2.47",
+            "eur_foil": "4.20",
+            "tix": "0.29",
+            "usd": "2.63",
+            "usd_etched": null,
+            "usd_foil": "4.25"
+        }
+    },
+    "378": {
+        "Card Name": "Blade of Shared Souls",
+        "Price": {
+            "eur": "0.12",
+            "eur_foil": "1.38",
+            "tix": "0.13",
+            "usd": "0.39",
+            "usd_etched": null,
+            "usd_foil": "0.64"
+        }
+    },
+    "379": {
+        "Card Name": "Blue Sun's Twilight",
+        "Price": {
+            "eur": "0.54",
+            "eur_foil": "1.08",
+            "tix": "0.47",
+            "usd": "0.88",
+            "usd_etched": null,
+            "usd_foil": "1.37"
+        }
+    },
+    "380": {
+        "Card Name": "Encroaching Mycosynth",
+        "Price": {
+            "eur": "0.24",
+            "eur_foil": "0.45",
+            "tix": "0.29",
+            "usd": "0.49",
+            "usd_etched": null,
+            "usd_foil": "0.76"
+        }
+    },
+    "381": {
+        "Card Name": "Mercurial Spelldancer",
+        "Price": {
+            "eur": "3.90",
+            "eur_foil": "11.98",
+            "tix": "1.49",
+            "usd": "1.62",
+            "usd_etched": null,
+            "usd_foil": "4.78"
+        }
+    },
+    "382": {
+        "Card Name": "Mindsplice Apparatus",
+        "Price": {
+            "eur": "0.46",
+            "eur_foil": "1.55",
+            "tix": "0.27",
+            "usd": "1.05",
+            "usd_etched": null,
+            "usd_foil": "2.18"
+        }
+    },
+    "383": {
+        "Card Name": "Black Sun's Twilight",
+        "Price": {
+            "eur": "0.25",
+            "eur_foil": "2.50",
+            "tix": "0.23",
+            "usd": "0.65",
+            "usd_etched": null,
+            "usd_foil": "1.43"
+        }
+    },
+    "384": {
+        "Card Name": "Phyrexian Arena",
+        "Price": {
+            "eur": "2.96",
+            "eur_foil": "3.20",
+            "tix": "0.28",
+            "usd": "2.13",
+            "usd_etched": null,
+            "usd_foil": "2.81"
+        }
+    },
+    "385": {
+        "Card Name": "Dragonwing Glider",
+        "Price": {
+            "eur": "0.23",
+            "eur_foil": "0.20",
+            "tix": "0.17",
+            "usd": "0.18",
+            "usd_etched": null,
+            "usd_foil": "0.25"
+        }
+    },
+    "386": {
+        "Card Name": "Red Sun's Twilight",
+        "Price": {
+            "eur": "0.25",
+            "eur_foil": "0.78",
+            "tix": "0.18",
+            "usd": "0.48",
+            "usd_etched": null,
+            "usd_foil": "1.09"
+        }
+    },
+    "387": {
+        "Card Name": "Urabrask's Forge",
+        "Price": {
+            "eur": "0.64",
+            "eur_foil": "0.50",
+            "tix": "0.24",
+            "usd": "0.44",
+            "usd_etched": null,
+            "usd_foil": "0.92"
+        }
+    },
+    "388": {
+        "Card Name": "Vindictive Flamestoker",
+        "Price": {
+            "eur": "0.20",
+            "eur_foil": "1.25",
+            "tix": "0.21",
+            "usd": "0.32",
+            "usd_etched": null,
+            "usd_foil": "1.02"
+        }
+    },
+    "389": {
+        "Card Name": "Bloated Contaminator",
+        "Price": {
+            "eur": "3.85",
+            "eur_foil": "4.50",
+            "tix": "1.12",
+            "usd": "2.48",
+            "usd_etched": null,
+            "usd_foil": "3.74"
+        }
+    },
+    "390": {
+        "Card Name": "Conduit of Worlds",
+        "Price": {
+            "eur": "2.37",
+            "eur_foil": "5.53",
+            "tix": "0.46",
+            "usd": "3.07",
+            "usd_etched": null,
+            "usd_foil": "5.49"
+        }
+    },
+    "391": {
+        "Card Name": "Green Sun's Twilight",
+        "Price": {
+            "eur": "0.50",
+            "eur_foil": "1.49",
+            "tix": "0.27",
+            "usd": "0.46",
+            "usd_etched": null,
+            "usd_foil": "1.08"
+        }
+    },
+    "392": {
+        "Card Name": "Venerated Rotpriest",
+        "Price": {
+            "eur": "7.42",
+            "eur_foil": "12.76",
+            "tix": "1.70",
+            "usd": "6.36",
+            "usd_etched": null,
+            "usd_foil": "8.18"
+        }
+    },
+    "393": {
+        "Card Name": "Argentum Masticore",
+        "Price": {
+            "eur": "0.13",
+            "eur_foil": "0.28",
+            "tix": "0.29",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.39"
+        }
+    },
+    "394": {
+        "Card Name": "The Filigree Sylex",
+        "Price": {
+            "eur": "0.82",
+            "eur_foil": "0.70",
+            "tix": "0.29",
+            "usd": "0.31",
+            "usd_etched": null,
+            "usd_foil": "0.70"
+        }
+    },
+    "395": {
+        "Card Name": "Mirran Safehouse",
+        "Price": {
+            "eur": "0.65",
+            "eur_foil": "0.99",
+            "tix": "0.20",
+            "usd": "0.33",
+            "usd_etched": null,
+            "usd_foil": "1.05"
+        }
+    },
+    "396": {
+        "Card Name": "Monument to Perfection",
+        "Price": {
+            "eur": "0.08",
+            "eur_foil": "0.35",
+            "tix": "0.19",
+            "usd": "0.25",
+            "usd_etched": null,
+            "usd_foil": "0.31"
+        }
+    },
+    "397": {
+        "Card Name": "Soulless Jailer",
+        "Price": {
+            "eur": "0.66",
+            "eur_foil": "2.53",
+            "tix": "0.85",
+            "usd": "0.53",
+            "usd_etched": null,
+            "usd_foil": "2.04"
+        }
+    },
+    "398": {
+        "Card Name": "Tablet of Compleation",
+        "Price": {
+            "eur": "0.07",
+            "eur_foil": "0.55",
+            "tix": "0.17",
+            "usd": "0.20",
+            "usd_etched": null,
+            "usd_foil": "0.26"
+        }
+    },
+    "399": {
+        "Card Name": "Zenith Chronicler",
+        "Price": {
+            "eur": "0.27",
+            "eur_foil": "0.73",
+            "tix": "0.22",
+            "usd": "0.29",
+            "usd_etched": null,
+            "usd_foil": "0.48"
+        }
+    },
+    "400": {
+        "Card Name": "Mirrex",
+        "Price": {
+            "eur": "1.11",
+            "eur_foil": "3.20",
+            "tix": "0.54",
+            "usd": "2.39",
+            "usd_etched": null,
+            "usd_foil": "4.76"
+        }
+    },
+    "401": {
+        "Card Name": "The Monumental Facade",
+        "Price": {
+            "eur": "0.15",
+            "eur_foil": "0.35",
+            "tix": "0.23",
+            "usd": "0.23",
+            "usd_etched": null,
+            "usd_foil": "0.52"
+        }
+    },
+    "402": {
+        "Card Name": "The Mycosynth Gardens",
+        "Price": {
+            "eur": "8.72",
+            "eur_foil": "18.03",
+            "tix": "9.29",
+            "usd": "6.29",
+            "usd_etched": null,
+            "usd_foil": "11.82"
+        }
+    },
+    "403": {
+        "Card Name": "The Seedcore",
+        "Price": {
+            "eur": "0.62",
+            "eur_foil": "0.89",
+            "tix": "1.26",
+            "usd": "0.65",
+            "usd_etched": null,
+            "usd_foil": "2.13"
+        }
+    },
+    "404": {
+        "Card Name": "Mite Overseer",
+        "Price": {
+            "eur": "0.49",
+            "eur_foil": "2.84",
+            "tix": "0.80",
+            "usd": "0.31",
+            "usd_etched": null,
+            "usd_foil": "8.47"
+        }
+    },
+    "405": {
+        "Card Name": "Serum Sovereign",
+        "Price": {
+            "eur": "0.19",
+            "eur_foil": "0.49",
+            "tix": "0.33",
+            "usd": "0.26",
+            "usd_etched": null,
+            "usd_foil": "2.27"
+        }
+    },
+    "406": {
+        "Card Name": "Kinzu of the Bleak Coven",
+        "Price": {
+            "eur": "0.33",
+            "eur_foil": "0.95",
+            "tix": "0.27",
+            "usd": "0.29",
+            "usd_etched": null,
+            "usd_foil": "5.69"
+        }
+    },
+    "407": {
+        "Card Name": "Rhuk, Hexgold Nabber",
+        "Price": {
+            "eur": "0.19",
+            "eur_foil": "0.88",
+            "tix": "0.33",
+            "usd": "0.25",
+            "usd_etched": null,
+            "usd_foil": "1.07"
+        }
+    },
+    "408": {
+        "Card Name": "Goliath Hatchery",
+        "Price": {
+            "eur": "0.31",
+            "eur_foil": "0.77",
+            "tix": "0.38",
+            "usd": "0.18",
+            "usd_etched": null,
+            "usd_foil": "1.11"
+        }
+    },
+    "409": {
+        "Card Name": "Mite Overseer",
+        "Price": {
+            "eur": "0.48",
+            "eur_foil": null,
+            "tix": "0.28",
+            "usd": "0.97",
+            "usd_etched": null,
+            "usd_foil": "5.14"
+        }
+    },
+    "410": {
+        "Card Name": "Serum Sovereign",
+        "Price": {
+            "eur": "0.35",
+            "eur_foil": "0.60",
+            "tix": "0.14",
+            "usd": "0.36",
+            "usd_etched": null,
+            "usd_foil": null
+        }
+    },
+    "411": {
+        "Card Name": "Kinzu of the Bleak Coven",
+        "Price": {
+            "eur": "1.15",
+            "eur_foil": "1.00",
+            "tix": "0.27",
+            "usd": "0.31",
+            "usd_etched": null,
+            "usd_foil": "2.94"
+        }
+    },
+    "412": {
+        "Card Name": "Rhuk, Hexgold Nabber",
+        "Price": {
+            "eur": "0.29",
+            "eur_foil": "6.00",
+            "tix": "0.17",
+            "usd": "0.27",
+            "usd_etched": null,
+            "usd_foil": "2.85"
+        }
+    },
+    "413": {
+        "Card Name": "Goliath Hatchery",
+        "Price": {
+            "eur": "0.34",
+            "eur_foil": null,
+            "tix": "0.18",
+            "usd": "0.29",
+            "usd_etched": null,
+            "usd_foil": "1.87"
+        }
+    },
+    "414": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": "43.45",
+            "eur_foil": "63.36",
+            "tix": null,
+            "usd": "48.54",
+            "usd_etched": null,
+            "usd_foil": "86.91"
+        }
+    },
+    "415": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": "51.00",
+            "eur_foil": "68.00",
+            "tix": "12.29",
+            "usd": "77.77",
+            "usd_etched": null,
+            "usd_foil": "118.26"
+        }
+    },
+    "416": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": "44.00",
+            "eur_foil": "60.95",
+            "tix": "7.83",
+            "usd": "56.58",
+            "usd_etched": null,
+            "usd_foil": "77.45"
+        }
+    },
+    "417": {
+        "Card Name": "Bladed Ambassador",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.06",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.11"
+        }
+    },
+    "418": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": null,
+            "eur_foil": "60.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "69.13"
+        }
+    },
+    "419": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": null,
+            "eur_foil": "94.17",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "166.22"
+        }
+    },
+    "420": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": null,
+            "eur_foil": "45.60",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "57.59"
+        }
+    },
+    "421": {
+        "Card Name": "Elesh Norn, Mother of Machines",
+        "Price": {
+            "eur": null,
+            "eur_foil": "53.31",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "87.29"
+        }
+    },
+    "422": {
+        "Card Name": "The Eternal Wanderer",
+        "Price": {
+            "eur": null,
+            "eur_foil": "11.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "11.07"
+        }
+    },
+    "423": {
+        "Card Name": "Kemba, Kha Enduring",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.34",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.43"
+        }
+    },
+    "424": {
+        "Card Name": "Mondrak, Glory Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "32.96",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "51.33"
+        }
+    },
+    "425": {
+        "Card Name": "Phyrexian Vindicator",
+        "Price": {
+            "eur": null,
+            "eur_foil": "15.13",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "14.08"
+        }
+    },
+    "426": {
+        "Card Name": "Sinew Dancer",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.05",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.07"
+        }
+    },
+    "427": {
+        "Card Name": "Skrelv, Defector Mite",
+        "Price": {
+            "eur": null,
+            "eur_foil": "11.88",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "13.72"
+        }
+    },
+    "428": {
+        "Card Name": "Jace, the Perfected Mind",
+        "Price": {
+            "eur": null,
+            "eur_foil": "18.49",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "18.36"
+        }
+    },
+    "429": {
+        "Card Name": "Jace, the Perfected Mind",
+        "Price": {
+            "eur": null,
+            "eur_foil": "18.99",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "17.49"
+        }
+    },
+    "430": {
+        "Card Name": "Quicksilver Fisher",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.05",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.05"
+        }
+    },
+    "431": {
+        "Card Name": "Tekuthal, Inquiry Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "9.69",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "18.45"
+        }
+    },
+    "432": {
+        "Card Name": "Thrummingbird",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.25",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.29"
+        }
+    },
+    "433": {
+        "Card Name": "Unctus, Grand Metatect",
+        "Price": {
+            "eur": null,
+            "eur_foil": "3.51",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "3.65"
+        }
+    },
+    "434": {
+        "Card Name": "Archfiend of the Dross",
+        "Price": {
+            "eur": null,
+            "eur_foil": "1.25",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "1.53"
+        }
+    },
+    "435": {
+        "Card Name": "Blightbelly Rat",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.10",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.23"
+        }
+    },
+    "436": {
+        "Card Name": "Bonepicker Skirge",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.03",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.09"
+        }
+    },
+    "437": {
+        "Card Name": "Drivnod, Carnage Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "10.39",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "14.48"
+        }
+    },
+    "438": {
+        "Card Name": "Geth, Thane of Contracts",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.88",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.80"
+        }
+    },
+    "439": {
+        "Card Name": "Karumonix, the Rat King",
+        "Price": {
+            "eur": null,
+            "eur_foil": "3.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "4.20"
+        }
+    },
+    "440": {
+        "Card Name": "Phyrexian Obliterator",
+        "Price": {
+            "eur": null,
+            "eur_foil": "19.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "18.43"
+        }
+    },
+    "441": {
+        "Card Name": "Vraan, Executioner Thane",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.11",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.14"
+        }
+    },
+    "442": {
+        "Card Name": "Vraska, Betrayal's Sting",
+        "Price": {
+            "eur": null,
+            "eur_foil": "26.75",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "45.58"
+        }
+    },
+    "443": {
+        "Card Name": "Vraska, Betrayal's Sting",
+        "Price": {
+            "eur": null,
+            "eur_foil": "14.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "20.37"
+        }
+    },
+    "444": {
+        "Card Name": "Capricious Hellraiser",
+        "Price": {
+            "eur": null,
+            "eur_foil": "11.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "7.04"
+        }
+    },
+    "445": {
+        "Card Name": "Furnace Punisher",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.10",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.13"
+        }
+    },
+    "446": {
+        "Card Name": "Koth, Fire of Resistance",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.83",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "4.30"
+        }
+    },
+    "447": {
+        "Card Name": "Sawblade Scamp",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.10",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "448": {
+        "Card Name": "Slobad, Iron Goblin",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.90",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "1.54"
+        }
+    },
+    "449": {
+        "Card Name": "Solphim, Mayhem Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "12.98",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "16.10"
+        }
+    },
+    "450": {
+        "Card Name": "Urabrask's Anointer",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.19",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "451": {
+        "Card Name": "Cankerbloom",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.92",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "1.39"
+        }
+    },
+    "452": {
+        "Card Name": "Evolved Spinoderm",
+        "Price": {
+            "eur": null,
+            "eur_foil": "1.30",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.80"
+        }
+    },
+    "453": {
+        "Card Name": "Nissa, Ascended Animist",
+        "Price": {
+            "eur": null,
+            "eur_foil": "10.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "11.19"
+        }
+    },
+    "454": {
+        "Card Name": "Nissa, Ascended Animist",
+        "Price": {
+            "eur": null,
+            "eur_foil": "11.40",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "15.88"
+        }
+    },
+    "455": {
+        "Card Name": "Rustvine Cultivator",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.19",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.12"
+        }
+    },
+    "456": {
+        "Card Name": "Thrun, Breaker of Silence",
+        "Price": {
+            "eur": null,
+            "eur_foil": "3.85",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "3.18"
+        }
+    },
+    "457": {
+        "Card Name": "Tyrranax Rex",
+        "Price": {
+            "eur": null,
+            "eur_foil": "9.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "15.19"
+        }
+    },
+    "458": {
+        "Card Name": "Zopandrel, Hunger Dominus",
+        "Price": {
+            "eur": null,
+            "eur_foil": "11.79",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "12.33"
+        }
+    },
+    "459": {
+        "Card Name": "Atraxa, Grand Unifier",
+        "Price": {
+            "eur": null,
+            "eur_foil": "75.00",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "64.96"
+        }
+    },
+    "460": {
+        "Card Name": "Ezuri, Stalker of Spheres",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.60",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "4.89"
+        }
+    },
+    "461": {
+        "Card Name": "Glissa Sunslayer",
+        "Price": {
+            "eur": null,
+            "eur_foil": "5.60",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "5.31"
+        }
+    },
+    "462": {
+        "Card Name": "Jor Kadeen, First Goldwarden",
+        "Price": {
+            "eur": null,
+            "eur_foil": "1.41",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.97"
+        }
+    },
+    "463": {
+        "Card Name": "Kaito, Dancing Shadow",
+        "Price": {
+            "eur": null,
+            "eur_foil": "4.48",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "3.30"
+        }
+    },
+    "464": {
+        "Card Name": "Kaya, Intangible Slayer",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.62",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.40"
+        }
+    },
+    "465": {
+        "Card Name": "Kethek, Crucible Goliath",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.63",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.91"
+        }
+    },
+    "466": {
+        "Card Name": "Lukka, Bound to Ruin",
+        "Price": {
+            "eur": null,
+            "eur_foil": "5.35",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "5.58"
+        }
+    },
+    "467": {
+        "Card Name": "Lukka, Bound to Ruin",
+        "Price": {
+            "eur": null,
+            "eur_foil": "5.25",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "5.08"
+        }
+    },
+    "468": {
+        "Card Name": "Malcator, Purity Overseer",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.85",
+            "tix": "0.65",
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "1.06"
+        }
+    },
+    "469": {
+        "Card Name": "Melira, the Living Cure",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.15",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.17"
+        }
+    },
+    "470": {
+        "Card Name": "Migloz, Maze Crusher",
+        "Price": {
+            "eur": null,
+            "eur_foil": "1.50",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.07"
+        }
+    },
+    "471": {
+        "Card Name": "Nahiri, the Unforgiving",
+        "Price": {
+            "eur": null,
+            "eur_foil": "7.49",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "11.02"
+        }
+    },
+    "472": {
+        "Card Name": "Nahiri, the Unforgiving",
+        "Price": {
+            "eur": null,
+            "eur_foil": "6.50",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "6.14"
+        }
+    },
+    "473": {
+        "Card Name": "Necrogen Rotpriest",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.10",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.23"
+        }
+    },
+    "474": {
+        "Card Name": "Ovika, Enigma Goliath",
+        "Price": {
+            "eur": null,
+            "eur_foil": "2.20",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "3.92"
+        }
+    },
+    "475": {
+        "Card Name": "Ria Ivor, Bane of Bladehold",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.95",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.45"
+        }
+    },
+    "476": {
+        "Card Name": "Tyvar, Jubilant Brawler",
+        "Price": {
+            "eur": null,
+            "eur_foil": "10.51",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "12.12"
+        }
+    },
+    "477": {
+        "Card Name": "Venser, Corpse Puppet",
+        "Price": {
+            "eur": null,
+            "eur_foil": "1.29",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "2.04"
+        }
+    },
+    "478": {
+        "Card Name": "Graaz, Unstoppable Juggernaut",
+        "Price": {
+            "eur": null,
+            "eur_foil": "1.85",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "5.52"
+        }
+    },
+    "479": {
+        "Card Name": "Myr Convert",
+        "Price": {
+            "eur": null,
+            "eur_foil": "0.74",
+            "tix": null,
+            "usd": null,
+            "usd_etched": null,
+            "usd_foil": "0.44"
+        }
+    }
+}
