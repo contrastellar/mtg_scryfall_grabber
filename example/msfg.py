@@ -121,7 +121,7 @@ def main():
 
     # Create Filename based on arguments
     file_name = ""
-    file_name += set_name_from_search
+    file_name += user_set
     if pull_card_info :
         file_name += "_name"
     if pull_price_info :
