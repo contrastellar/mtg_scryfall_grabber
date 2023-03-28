@@ -12,20 +12,20 @@ import json
 import time
 import requests
 
-def merge(dict1, dict2):
+def merge(dict1, dict2) -> dict:
     """
         Merge two dictionaries together
     """
     return dict1.update(dict2)
 
-def json_parse(obj):
+def json_parse(obj) -> str:
     """
         Return a string object of the json passed in via obj
     """
     text = json.dumps(obj, sort_keys=True, indent=3)
     return text
 
-def grab_cards(user_set, response_data, page_num, verbose_setting, name, prices):
+def grab_cards(user_set, response_data, page_num, verbose_setting, name, prices) -> dict:
     """
         Grabs all cards from a user defined set @UserSet
     """
