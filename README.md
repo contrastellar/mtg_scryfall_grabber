@@ -1,4 +1,5 @@
 # mtg-scryfall-grabber
+[![Pylint](https://github.com/Contrastellar/mtg_scryfall_grabber/actions/workflows/pylint.yml/badge.svg?branch=main)](https://github.com/Contrastellar/mtg_scryfall_grabber/actions/workflows/pylint.yml)
 
 MTG-Scryfall-Grabber (MSG) is a Python library and module for scraping and organizing data from the Scryfall Rest-API.
 
