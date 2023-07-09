@@ -126,6 +126,7 @@ def main():
         file_name += "_name"
     if pull_price_info :
         file_name += "_price"
+    file_name += "_"
     file_name += str(int(time.time()))
 
     # Writing to sample.json
