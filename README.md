@@ -26,6 +26,7 @@ The functions from `mtg_scryfall_grabber.py` can be invoked using
 import mtg_scryfall_grabber
 ```
 
+
 ## Quickstart
 To get started quickly, one must install Python 3 (version 3.8 or greater).
 
@@ -48,7 +49,8 @@ From here, downloading (either from releases, or from [cloning](https://docs.git
 ```bash
 cd $MTG_SCRYFALL_GRABBER_DOWNLOAD_LOCATION/example/
 ```
-2. Run the following command to download the information for "Phyrexia, All Will Be One"
+
+2. Run the following command to download the information for the set "Phyrexia, All Will Be One"
 ### WINDOWS PowerShell
 ```bash
 py msfg.py ONE -c -p
@@ -59,13 +61,15 @@ py msfg.py ONE -c -p
 python3 msfg.py ONE -c -p
 ```
 
-In `./example/`, this will create a directory named "output", which will contain a `.json` file named `ONE1679966430.json` -- where it is compiled by set code + unix time.
+In `./example/`, this will create a directory named "output", which will contain a `.json` file named like `ONE_name_price_$(TIME).json` -- where it is compiled by set code + unix time.
+
 
 ## TODO
 
 Nothing else major needs to be done at this point, however polishing and code testing will be implemented to this library before this is considered a full, ready-to-be-used in production v.1 release.
 
-Additional functions need to be implimented, however -- an example implementation of this library is given in `./example/` under `msfg.py`. This implementation can also be treated as the "primary" method of using this library, in order to generate JSON to be used inside Excel spreadsheets.
+Additional functions need to be implimented, however -- an example implementation of this library is given in `./example/` under `msfg.py`. This implementation can also be treated as the "primary" method of using this library, in order to generate JSON to be used inside Excel spreadsheets or another spreadsheet program.
+
 
 ## Contributing
 
@@ -75,4 +79,4 @@ to discuss what you would like to change.
 ## License
 The license is covered under the file [license.md](https://github.com/Contrastellar/mtg-scryfall-grabber/blob/main/license.md).
 
-In essence, please do not use this software for commercial (for profit) means. This library is provided as is, modifications to the source code are allowed. This is to follow the Wizards of the Coast's Fan Content Policy.
+In essence, please do not use this software for commercial (for profit) means. This library is provided as is, modifications to the source code are allowed. This is to follow the Wizards of the Coast's (WotC) Fan Content Policy. All modifications should be done in accordance with the WotC Fan Content Policy.
