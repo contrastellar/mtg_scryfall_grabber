@@ -3,7 +3,7 @@
 # pylint: disable=C0303
 # pylint: disable=R0913
 """
-Utility script in order to pull complete card sets from Scryfall
+Library to pull card sets from scryfall
 
 Author: Contrastellar (Gabriella Agathon)
 """
