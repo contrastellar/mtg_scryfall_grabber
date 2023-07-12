@@ -27,6 +27,21 @@ def json_parse(obj) -> str:
     text = json.dumps(obj, sort_keys=True, indent=3)
     return text
 
+def file_name(pull_card_info, pull_price_info) -> str:
+    """
+    Create a filename to be used during the output process
+    """
+    file_name = ""
+    file_name += user_set
+    if pull_card_info :
+        file_name += "_name"
+    if pull_price_info :
+        file_name += "_price"
+    file_name += "_"
+    file_name += str(int(time.time()))
+
+    return file_name
+
 # Consts
 PAGENUM = 1
 MODULE_DESCRIPTION = "Script to pull card info from api.scryfall.com based on specific set"
@@ -120,14 +135,7 @@ def main():
         os.makedirs(path)
 
     # Create Filename based on arguments
-    file_name = ""
-    file_name += user_set
-    if pull_card_info :
-        file_name += "_name"
-    if pull_price_info :
-        file_name += "_price"
-    file_name += "_"
-    file_name += str(int(time.time()))
+    file_name = file_name(pull_card_info=pull_card_info, pull_price_info=pull_price_info)
 
     # Writing to sample.json
     with open("output/" + file_name + ".json", "w", encoding="UTF8") as outfile:
