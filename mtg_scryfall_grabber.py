@@ -2,6 +2,8 @@
 # pylint: disable=C0301
 # pylint: disable=C0303
 # pylint: disable=R0913
+# pylint: disable=R0133
+# pylint: disable=R0124
 """
 Library to pull card sets from scryfall
 
@@ -14,16 +16,25 @@ import time
 import requests
 
 def test_dict_merge() -> None:
+    """
+        Test the merge function
+    """
     dict1 = {'a': 10, 'b': 8}
     dict2 = {'d': 6, 'c': 4}
-    dictExpected = {'c': 4, 'a': 10, 'b': 8, 'd': 6}
+    dict_expected = {'c': 4, 'a': 10, 'b': 8, 'd': 6}
     merge(dict1=dict1, dict2=dict2)
-    assert dict1 == dictExpected
+    assert dict1 == dict_expected
 
 def test_json_parse() -> None:
+    """
+        Test the json parse function
+    """
     assert 0 == 0
 
 def test_grab_cards() -> None:
+    """
+        Test the grab cards function
+    """
     assert 0 == 0
 
 def merge(dict1, dict2) -> dict:

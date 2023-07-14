@@ -1,3 +1,4 @@
 argparse
 requests
 mtg_scryfall_grabber
+pytest
