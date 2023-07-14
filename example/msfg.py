@@ -2,8 +2,8 @@
 # pylint: disable=C0301
 
 """
-Module for scraping usefull info off of the scryfall 
-REST API when invoked as a module, versus a library
+Example implementation of the mtg_scryfall_grabber module from @contrastellar
+https://pypi.org/project/mtg-scryfall-grabber/
 
 Author: Contrastellar (Gabriella Agathon)
 2023
