@@ -19,3 +19,5 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/Contrastellar/mtg_scryfall_grabber"
 "Bug Tracker" = "https://github.com/Contrastellar/mtg_scryfall_grabber/issues"
+
+[tool.pytest.ini_options]

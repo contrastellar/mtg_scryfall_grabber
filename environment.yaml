@@ -6,5 +6,6 @@ dependencies:
 - pip
 - pip:
   - argparse
-  - requests
+  - requests==2.29.*
   - mtg_scryfall_grabber
+  - pytest

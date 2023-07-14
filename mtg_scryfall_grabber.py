@@ -13,6 +13,19 @@ import json
 import time
 import requests
 
+def test_dict_merge() -> None:
+    dict1 = {'a': 10, 'b': 8}
+    dict2 = {'d': 6, 'c': 4}
+    dictExpected = {'c': 4, 'a': 10, 'b': 8, 'd': 6}
+    merge(dict1=dict1, dict2=dict2)
+    assert dict1 == dictExpected
+
+def test_json_parse() -> None:
+    assert 0 == 0
+
+def test_grab_cards() -> None:
+    assert 0 == 0
+
 def merge(dict1, dict2) -> dict:
     """
         Merge two dictionaries together
