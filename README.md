@@ -3,6 +3,8 @@
 
 MTG-Scryfall-Grabber (MSG) is a Python library and module for scraping and organizing data from the Scryfall Rest-API.
 
+`conda` is not _needed_ but a sample `environment.yaml` is provided for the bare minimums you need to run in your own conda enviornment.
+
 ## Installation
 
 Please go to [Releases](https://github.com/Contrastellar/mtg-scryfall-grabber/releases) for the latest directories.
@@ -27,12 +29,58 @@ import mtg_scryfall_grabber
 ```
 
 
-## Quickstart
+## Quickstart (/w conda)
+
+
+### conda install
+
+`conda` can be installed from [here](https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html)
+
+### Once conda is installed
+
+1. Clone the following repo
+```
+https://github.com/Contrastellar/mtg_scryfall_grabber
+```
+
+2. Navigate to the repo
+```sh
+cd ./mtg_scryfall_grabber/
+```
+
+3. Install the environment, where `$NAME_OF_ENVIRONMENT` is any name, or is omitted altogether, as one is given in the file.
+```sh
+conda env create --file ./environment.yaml --name $NAME_OF_ENVIRONMENT
+```
+
+4. Activate the environment
+```sh
+conda activate $NAME_OF_ENVIRONMENT
+```
+
+5. Navigate to the `./example/` directory
+```sh
+cd ./example/
+```
+
+6. Run the following OS dependant command to download the information for the set "Phyrexia, All Will Be One"
+### PowerShell
+```bash
+py msfg.py ONE -c -p
+```
+
+### Unix 
+```bash
+python3 msfg.py ONE -c -p
+```
+
+
+## Quickstart w/o conda
 To get started quickly, one must install Python 3 (version 3.8 or greater).
 
 Once having completed Python 3 installation for your Operating System, running the following command
 
-### WINDOWS PowerShell ---
+### PowerShell ---
 ```bash
 py -m pip install --upgrade mtg-scryfall-grabber
 ```
@@ -51,7 +99,7 @@ cd $MTG_SCRYFALL_GRABBER_DOWNLOAD_LOCATION/example/
 ```
 
 2. Run the following command to download the information for the set "Phyrexia, All Will Be One"
-### WINDOWS PowerShell
+### PowerShell
 ```bash
 py msfg.py ONE -c -p
 ```
