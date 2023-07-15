@@ -27,7 +27,6 @@ def test_dict_merge() -> None:
     merge(dict1=dict1, dict2=dict2)
 
     assert dict1 == dict_expected
-    return None
 
 def test_json_parse() -> None:
     """
@@ -60,7 +59,6 @@ def test_json_parse() -> None:
                            "uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2"}
     
     assert output == expected_dict
-    return None
 
 def test_grab_cards() -> None:
     """
@@ -81,7 +79,6 @@ def test_grab_cards() -> None:
     expected_output: dict = {1: {'Card Name': 'Phyrexian Myr', 'Price': {'eur': None, 'eur_foil': None, 'tix': None, 'usd': None, 'usd_etched': None, 'usd_foil': None}}, 2: {'Card Name': 'Elemental', 'Price': {'eur': None, 'eur_foil': None, 'tix': None, 'usd': None, 'usd_etched': None, 'usd_foil': None}}}
     
     assert output == expected_output
-    return None
 
 def merge(dict1, dict2) -> dict:
     """
