@@ -1,6 +1,10 @@
 #/opt/homebrew/bin/python3
 # pylint: disable=C0301
-
+# pylint: disable=C0303
+# pylint: disable=R0913
+# pylint: disable=R0914
+# pylint: disable=R0133
+# pylint: disable=R0124
 """
 Example implementation of the mtg_scryfall_grabber module from @contrastellar
 https://pypi.org/project/mtg-scryfall-grabber/
@@ -27,7 +31,7 @@ def json_parse(obj) -> str:
     text = json.dumps(obj, sort_keys=True, indent=3)
     return text
 
-def file_name(user_set, pull_card_info, pull_price_info) -> str:
+def file_name_creation(user_set, pull_card_info, pull_price_info) -> str:
     """
     Create a filename to be used during the output process
     """
@@ -135,7 +139,7 @@ def main():
         os.makedirs(path)
 
     # Create Filename based on arguments
-    file_name = file_name(user_set=user_set, pull_card_info=pull_card_info, pull_price_info=pull_price_info)
+    file_name = file_name_creation(user_set=user_set, pull_card_info=pull_card_info, pull_price_info=pull_price_info)
 
     # Writing to sample.json
     with open("output/" + file_name + ".json", "w", encoding="UTF8") as outfile:
