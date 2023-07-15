@@ -9,3 +9,4 @@ dependencies:
   - requests==2.29.*
   - mtg_scryfall_grabber
   - pytest
+  - pylint
