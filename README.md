@@ -1,7 +1,8 @@
-# mtg-scryfall-grabber
+# mtg_scryfall_grabber
 [![Pylint](https://github.com/Contrastellar/mtg_scryfall_grabber/actions/workflows/pylint.yml/badge.svg?branch=main)](https://github.com/Contrastellar/mtg_scryfall_grabber/actions/workflows/pylint.yml)
+[![pytest](https://github.com/Contrastellar/mtg_scryfall_grabber/actions/workflows/pytest.yml/badge.svg)](https://github.com/Contrastellar/mtg_scryfall_grabber/actions/workflows/pytest.yml)
 
-MTG-Scryfall-Grabber (MSG) is a Python library and module for scraping and organizing data from the Scryfall Rest-API.
+mtg_scryfall_grabber (MSG) is a Python library and module for scraping and organizing data from the Scryfall Rest-API.
 
 `conda` is not _needed_ but a sample `environment.yaml` is provided for the bare minimums you need to run in your own conda enviornment.
 
@@ -12,7 +13,7 @@ Please go to [Releases](https://github.com/Contrastellar/mtg-scryfall-grabber/re
 Additionally, this can be installed from pip using
 
 ```bash
-python3 -m pip install mtg-scryfall-grabber
+python3 -m pip install mtg_scryfall_grabber
 ```
 
 
@@ -20,7 +21,7 @@ python3 -m pip install mtg-scryfall-grabber
 
 After installing via pip using 
 ```bash
-python3 -m pip install --upgrade mtg-scryfall-grabber
+python3 -m pip install --upgrade mtg_scryfall_grabber
 ```
 
 The functions from `mtg_scryfall_grabber.py` can be invoked using
