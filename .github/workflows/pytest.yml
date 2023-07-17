@@ -19,6 +19,6 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install --upgrade pytest
         pip install -r requirements.txt
-    - name: Analysing ./mtg_scryfall_grabber.py for linting errors with pylint
+    - name: testing /w pytest
       run: |
-        pytest ./mtg_scryfall_grabber.py
+        pytest ./mtg_scryfall_grabber.py -q --disable-warning
