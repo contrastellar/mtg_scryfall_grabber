@@ -21,4 +21,4 @@ jobs:
         pip install -r requirements.txt
     - name: testing /w pytest
       run: |
-        pytest ./mtg_scryfall_grabber.py -q --disable-warning
+        pytest ./mtg_scryfall_grabber.py -q --disable-warnings
