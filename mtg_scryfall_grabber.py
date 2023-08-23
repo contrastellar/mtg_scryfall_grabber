@@ -21,6 +21,7 @@ def test_dict_merge() -> None:
     """
 
     # Simple test function, using a very simple set of dictionaries.
+    # Dicts are unsorted, so it doesn't matter whta the expected dictionary is
     dict1 = {'a': 10, 'b': 8}
     dict2 = {'d': 6, 'c': 4}
     dict_expected = {'c': 4, 'a': 10, 'b': 8, 'd': 6}
@@ -44,7 +45,7 @@ def test_json_parse() -> None:
                            "code": "one",
                            "digital": False,
                            "foil_only": False,
-                           "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1688961600",
+                           "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1692590400",
                            "id": "04bef644-343f-4230-95ee-255f29aa67a2",
                            "mtgo_code": "one",
                            "name": "Phyrexia: All Will Be One",
@@ -68,7 +69,7 @@ def test_grab_cards() -> None:
     # Using Multiverse Legends Tokens, as its a short card list on scryfall
     user_set = "TMUL"
     page_num = 1
-    card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set +"&unique=prints&page=" + str(page_num)
+    card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A" + user_set +"&unique=prints&page=" + str(page_num)
     response_data = requests.get(card_list_url, timeout=10000)
     verbose_setting = False
     name = True
