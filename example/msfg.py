@@ -18,6 +18,8 @@ import json
 import time
 import argparse
 import requests
+# This does require you to have the most recent version of mtg_scryfall_grabber installed
+# pip install --upgrade mtg_scryfall_grabber
 import mtg_scryfall_grabber
 
 def merge(dict1, dict2) -> dict:
