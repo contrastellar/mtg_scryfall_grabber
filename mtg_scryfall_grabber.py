@@ -32,12 +32,14 @@ def test_dict_merge() -> None:
 def test_json_parse() -> None:
     """
         Test the json parse function
+        Long running test, due to the fact that it does fetch 479 cards
+        !! will be slow on poor connections !!
     """
     user_set: str = "ONE"
     card_set_url = "https://api.scryfall.com/sets/" + user_set
 
     obj = requests.get(card_set_url, timeout=10000)
-    output = json.loads(json_parse(obj=obj.json()))
+    output = json.loads(json_as_string(obj=obj.json()))
 
     # Expected dictionary, basically the manifest of the ONE set as expected from Scryfall.
     expected_dict: dict = {"arena_code": "one",
@@ -64,9 +66,12 @@ def test_json_parse() -> None:
 def test_grab_cards() -> None:
     """
         Test the grab cards function
+        This is the longest running test, due to the fact that it does run a requests.get
+        with a timeout of 10s
+        !! will be slow on slow connections !!
     """
     
-    # Using Multiverse Legends Tokens, as its a short card list on scryfall
+    # Using Multiverse Legends Tokens, as its a short card list on scryfall, only two cards
     user_set = "TMUL"
     page_num = 1
     card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A" + user_set +"&unique=prints&page=" + str(page_num)
@@ -83,11 +88,11 @@ def test_grab_cards() -> None:
 
 def merge(dict1, dict2) -> dict:
     """
-        Merge two dictionaries together
+        Merge two dictionaries together, returning the first dict
     """
     return dict1.update(dict2)
 
-def json_parse(obj) -> str:
+def json_as_string(obj) -> str:
     """
         Return a string object of the json passed in via obj
     """
@@ -98,13 +103,15 @@ def grab_cards(user_set: str, response_data: dict, page_num: int, verbose_settin
     """
         Grabs all cards from a user defined set @UserSet
     """
-    parsed_card_file = json.loads(json_parse(response_data.json()))
+    # this is redunant??? why am i doing this? I have no idea
+    parsed_card_file = json.loads(json_as_string(response_data.json()))
     master_output = {}
     output = {}
 
     i = 0
     for data in parsed_card_file['data']:
         # For future -- this can be cleaned up so that it doesn't use a long if chain to determine what data to include
+        # This can also be turned into a new function, most likely, it wont be pretty, and will need to be tested, but it'll work.
         output[i+1] = {}
         if name:
             output[i+1]["Card Name"] = data["name"]
@@ -115,7 +122,8 @@ def grab_cards(user_set: str, response_data: dict, page_num: int, verbose_settin
         i = i + 1
         merge(master_output, output)
 
-    # Sleeps are used to not get blocked by the API
+    # Sleeps are used to not get blocked by the API, using a decimal number of seconds, as it doesn't need to be 
+    # a delay longer than a second.
     time.sleep(0.25)
 
     # Now, can go into the "has more"
@@ -123,15 +131,16 @@ def grab_cards(user_set: str, response_data: dict, page_num: int, verbose_settin
 
     while has_next:
         # Repeat same function as above, except for every page after.
+        # this could likely be turned into a function, to clean up duplicate code
         page_num += 1
-        card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set +"&unique=prints&page=" + str(page_num)
+        card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set + "&unique=prints&page=" + str(page_num)
 
         response_data = requests.get(card_list_url, timeout=10000)
         if verbose_setting:
             print("Card URL =   " + str(card_list_url))
             print("Response code: " + str(response_data.status_code) + "\n")
 
-        parsed_card_file = json.loads(json_parse(response_data.json()))
+        parsed_card_file = json.loads(json_as_string(response_data.json()))
         has_next = parsed_card_file['has_more']
         output2 = {}
 

@@ -67,8 +67,7 @@ def main():
     parser.add_argument('-p', '--price',
                         help="grab card price associated with collector number",
                         action='store_true',
-                        default=False
-                        )
+                        default=False)
     parser.add_argument('-v', '--verbose',
                         help='increase output verbosity', 
                         action='store_true',
@@ -87,7 +86,7 @@ def main():
     # Used to verify that the two sets are actually identical.
     card_set_url = "https://api.scryfall.com/sets/" + user_set
 
-    card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A"+ user_set +"&unique=prints&page=" + str(PAGENUM)
+    card_list_url = "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A" + user_set +"&unique=prints&page=" + str(PAGENUM)
 
     set_data = requests.get(card_set_url, timeout=10000)
     response_data = requests.get(card_list_url, timeout=10000)
