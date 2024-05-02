@@ -2,6 +2,7 @@ output/*.json
 *.json
 creating-release-guidebook.md
 sample.py
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
